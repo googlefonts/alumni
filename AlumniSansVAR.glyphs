@@ -42281,9 +42281,8 @@ Tag = wght;
 instanceInterpolations = {
 "82B1C968-1149-4E0D-B361-F2F5D539D913" = 1;
 };
-name = Hairline;
+name = Thin;
 weightClass = Thin;
-widthClass = SemiCondensed;
 },
 {
 customParameters = (
@@ -42302,7 +42301,7 @@ instanceInterpolations = {
 "82B1C968-1149-4E0D-B361-F2F5D539D913" = 0.88889;
 "8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC" = 0.11111;
 };
-name = Thin;
+name = ExtraLight;
 weightClass = ExtraLight;
 },
 {
@@ -42401,8 +42400,8 @@ instanceInterpolations = {
 "82B1C968-1149-4E0D-B361-F2F5D539D913" = 0.44444;
 "8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC" = 0.55556;
 };
-name = DemiBold;
-weightClass = DemiBold;
+name = SemiBold;
+weightClass = SemiBold;
 },
 {
 customParameters = (
