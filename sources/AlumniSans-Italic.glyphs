@@ -67289,17 +67289,6 @@ width = 405;
 );
 instances = (
 {
-customParameters = (
-{
-name = Axes;
-value = (
-{
-Name = Weight;
-Tag = wght;
-}
-);
-}
-);
 instanceInterpolations = {
 "82B1C968-1149-4E0D-B361-F2F5D539D913" = 1;
 };
@@ -67309,17 +67298,6 @@ name = "Thin Italic";
 weightClass = Thin;
 },
 {
-customParameters = (
-{
-name = Axes;
-value = (
-{
-Name = Weight;
-Tag = wght;
-}
-);
-}
-);
 interpolationWeight = 200;
 instanceInterpolations = {
 "82B1C968-1149-4E0D-B361-F2F5D539D913" = 0.875;
@@ -67331,17 +67309,6 @@ name = "ExtraLight Italic";
 weightClass = ExtraLight;
 },
 {
-customParameters = (
-{
-name = Axes;
-value = (
-{
-Name = Weight;
-Tag = wght;
-}
-);
-}
-);
 interpolationWeight = 300;
 instanceInterpolations = {
 "82B1C968-1149-4E0D-B361-F2F5D539D913" = 0.75;
@@ -67376,17 +67343,6 @@ name = "Book Italic";
 weightClass = Normal;
 },
 {
-customParameters = (
-{
-name = Axes;
-value = (
-{
-Name = Weight;
-Tag = wght;
-}
-);
-}
-);
 interpolationWeight = 400;
 instanceInterpolations = {
 "82B1C968-1149-4E0D-B361-F2F5D539D913" = 0.625;
@@ -67394,20 +67350,9 @@ instanceInterpolations = {
 };
 isItalic = 1;
 linkStyle = Regular;
-name = "Regular Italic";
+name = Italic;
 },
 {
-customParameters = (
-{
-name = Axes;
-value = (
-{
-Name = Weight;
-Tag = wght;
-}
-);
-}
-);
 interpolationWeight = 500;
 instanceInterpolations = {
 "82B1C968-1149-4E0D-B361-F2F5D539D913" = 0.5;
@@ -67419,17 +67364,6 @@ name = "Medium Italic";
 weightClass = Medium;
 },
 {
-customParameters = (
-{
-name = Axes;
-value = (
-{
-Name = Weight;
-Tag = wght;
-}
-);
-}
-);
 interpolationWeight = 600;
 instanceInterpolations = {
 "82B1C968-1149-4E0D-B361-F2F5D539D913" = 0.375;
@@ -67441,17 +67375,6 @@ name = "SemiBold Italic";
 weightClass = SemiBold;
 },
 {
-customParameters = (
-{
-name = Axes;
-value = (
-{
-Name = Weight;
-Tag = wght;
-}
-);
-}
-);
 interpolationWeight = 700;
 instanceInterpolations = {
 "82B1C968-1149-4E0D-B361-F2F5D539D913" = 0.25;
@@ -67463,17 +67386,6 @@ name = "Bold Italic";
 weightClass = Bold;
 },
 {
-customParameters = (
-{
-name = Axes;
-value = (
-{
-Name = Weight;
-Tag = wght;
-}
-);
-}
-);
 interpolationWeight = 900;
 instanceInterpolations = {
 "8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC" = 1;

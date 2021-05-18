@@ -67,7 +67,7 @@ name = Languagesystems;
 features = (
 {
 automatic = 1;
-code = "feature locl;\012feature sups;\012feature frac;\012feature ordn;\012feature pnum;\012feature tnum;\012feature salt;\012feature c2sc;\012";
+code = "feature locl;\012feature sups;\012feature frac;\012feature ordn;\012feature pnum;\012feature tnum;\012feature salt;\012feature c2sc;\012feature smcp;\012";
 name = aalt;
 },
 {
@@ -107,6 +107,16 @@ name = tnum;
 },
 {
 automatic = 1;
+code = "sub A by a.sc;\012sub B by b.sc;\012sub C by c.sc;\012sub D by d.sc;\012sub E by e.sc;\012sub F by f.sc;\012sub G by g.sc;\012sub H by h.sc;\012sub I by i.sc;\012sub J by j.sc;\012sub K by k.sc;\012sub L by l.sc;\012sub M by m.sc;\012sub N by n.sc;\012sub O by o.sc;\012sub P by p.sc;\012sub Q by q.sc;\012sub R by r.sc;\012sub S by s.sc;\012sub T by t.sc;\012sub U by u.sc;\012sub V by v.sc;\012sub W by w.sc;\012sub X by x.sc;\012sub Y by y.sc;\012sub Z by z.sc;\012";
+name = c2sc;
+},
+{
+automatic = 1;
+code = "sub a by a.sc;\012sub b by b.sc;\012sub c by c.sc;\012sub d by d.sc;\012sub e by e.sc;\012sub f by f.sc;\012sub g by g.sc;\012sub h by h.sc;\012sub i by i.sc;\012sub j by j.sc;\012sub k by k.sc;\012sub l by l.sc;\012sub m by m.sc;\012sub n by n.sc;\012sub o by o.sc;\012sub p by p.sc;\012sub q by q.sc;\012sub r by r.sc;\012sub s by s.sc;\012sub t by t.sc;\012sub u by u.sc;\012sub v by v.sc;\012sub w by w.sc;\012sub x by x.sc;\012sub y by y.sc;\012sub z by z.sc;\012";
+name = smcp;
+},
+{
+automatic = 1;
 code = "sub longs t by longs_t;\012";
 name = hlig;
 },
@@ -123,11 +133,6 @@ name = liga;
 {
 code = "sub ampersand by ampersand.salt;";
 name = salt;
-},
-{
-automatic = 1;
-code = "sub A by A.smcp;\012sub B by B.smcp;\012sub C by C.smcp;\012sub D by D.smcp;\012sub E by E.smcp;\012sub F by F.smcp;\012sub G by G.smcp;\012sub H by H.smcp;\012sub I by I.smcp;\012sub J by J.smcp;\012sub K by K.smcp;\012sub L by L.smcp;\012sub M by M.smcp;\012sub N by N.smcp;\012sub O by O.smcp;\012sub P by P.smcp;\012sub Q by Q.smcp;\012sub R by R.smcp;\012sub S by S.smcp;\012sub T by T.smcp;\012sub U by U.smcp;\012sub V by V.smcp;\012sub W by W.smcp;\012sub X by X.smcp;\012sub Y by Y.smcp;\012sub Z by Z.smcp;\012";
-name = c2sc;
 }
 );
 fontMaster = (
@@ -29455,8 +29460,8 @@ leftMetricsKey = t;
 rightMetricsKey = u;
 },
 {
-glyphname = A.smcp;
-lastChange = "2021-05-18 16:11:54 +0000";
+glyphname = a.sc;
+lastChange = "2021-05-18 21:45:33 +0000";
 layers = (
 {
 background = {
@@ -29497,8 +29502,8 @@ width = 342;
 );
 },
 {
-glyphname = B.smcp;
-lastChange = "2021-05-18 16:11:54 +0000";
+glyphname = b.sc;
+lastChange = "2021-05-18 21:45:33 +0000";
 layers = (
 {
 background = {
@@ -29539,8 +29544,8 @@ width = 336;
 );
 },
 {
-glyphname = C.smcp;
-lastChange = "2021-05-18 16:33:58 +0000";
+glyphname = c.sc;
+lastChange = "2021-05-18 21:45:33 +0000";
 layers = (
 {
 background = {
@@ -29581,8 +29586,8 @@ width = 331;
 );
 },
 {
-glyphname = D.smcp;
-lastChange = "2021-05-18 16:11:54 +0000";
+glyphname = d.sc;
+lastChange = "2021-05-18 21:45:33 +0000";
 layers = (
 {
 background = {
@@ -29623,8 +29628,8 @@ width = 336;
 );
 },
 {
-glyphname = E.smcp;
-lastChange = "2021-05-18 16:11:54 +0000";
+glyphname = e.sc;
+lastChange = "2021-05-18 21:45:33 +0000";
 layers = (
 {
 background = {
@@ -29665,8 +29670,8 @@ width = 274;
 );
 },
 {
-glyphname = F.smcp;
-lastChange = "2021-05-18 16:16:24 +0000";
+glyphname = f.sc;
+lastChange = "2021-05-18 21:45:33 +0000";
 layers = (
 {
 background = {
@@ -29707,8 +29712,8 @@ width = 273;
 );
 },
 {
-glyphname = G.smcp;
-lastChange = "2021-05-18 16:16:24 +0000";
+glyphname = g.sc;
+lastChange = "2021-05-18 21:45:33 +0000";
 layers = (
 {
 background = {
@@ -29749,8 +29754,8 @@ width = 331;
 );
 },
 {
-glyphname = H.smcp;
-lastChange = "2021-05-18 00:20:56 +0000";
+glyphname = h.sc;
+lastChange = "2021-05-18 21:45:33 +0000";
 layers = (
 {
 background = {
@@ -29791,8 +29796,8 @@ width = 338;
 );
 },
 {
-glyphname = I.smcp;
-lastChange = "2021-05-18 16:11:54 +0000";
+glyphname = i.sc;
+lastChange = "2021-05-18 21:45:33 +0000";
 layers = (
 {
 background = {
@@ -29833,8 +29838,8 @@ width = 175;
 );
 },
 {
-glyphname = J.smcp;
-lastChange = "2021-05-18 16:50:59 +0000";
+glyphname = j.sc;
+lastChange = "2021-05-18 21:45:33 +0000";
 layers = (
 {
 background = {
@@ -29875,8 +29880,8 @@ width = 221;
 );
 },
 {
-glyphname = K.smcp;
-lastChange = "2021-05-18 16:16:24 +0000";
+glyphname = k.sc;
+lastChange = "2021-05-18 21:45:33 +0000";
 layers = (
 {
 background = {
@@ -29917,8 +29922,8 @@ width = 367;
 );
 },
 {
-glyphname = L.smcp;
-lastChange = "2021-05-18 16:11:54 +0000";
+glyphname = l.sc;
+lastChange = "2021-05-18 21:45:33 +0000";
 layers = (
 {
 background = {
@@ -29959,8 +29964,8 @@ width = 252;
 );
 },
 {
-glyphname = M.smcp;
-lastChange = "2021-05-18 00:20:56 +0000";
+glyphname = m.sc;
+lastChange = "2021-05-18 21:45:33 +0000";
 layers = (
 {
 background = {
@@ -30001,8 +30006,8 @@ width = 452;
 );
 },
 {
-glyphname = N.smcp;
-lastChange = "2021-05-18 00:20:56 +0000";
+glyphname = n.sc;
+lastChange = "2021-05-18 21:45:33 +0000";
 layers = (
 {
 background = {
@@ -30043,8 +30048,8 @@ width = 334;
 );
 },
 {
-glyphname = O.smcp;
-lastChange = "2021-05-18 16:11:54 +0000";
+glyphname = o.sc;
+lastChange = "2021-05-18 21:45:33 +0000";
 layers = (
 {
 background = {
@@ -30085,8 +30090,8 @@ width = 332;
 );
 },
 {
-glyphname = P.smcp;
-lastChange = "2021-05-18 16:16:24 +0000";
+glyphname = p.sc;
+lastChange = "2021-05-18 21:45:33 +0000";
 layers = (
 {
 background = {
@@ -30127,8 +30132,8 @@ width = 333;
 );
 },
 {
-glyphname = Q.smcp;
-lastChange = "2021-05-18 16:11:54 +0000";
+glyphname = q.sc;
+lastChange = "2021-05-18 21:45:33 +0000";
 layers = (
 {
 background = {
@@ -30169,8 +30174,8 @@ width = 339;
 );
 },
 {
-glyphname = R.smcp;
-lastChange = "2021-05-18 16:11:54 +0000";
+glyphname = r.sc;
+lastChange = "2021-05-18 21:45:33 +0000";
 layers = (
 {
 background = {
@@ -30211,8 +30216,8 @@ width = 355;
 );
 },
 {
-glyphname = S.smcp;
-lastChange = "2021-05-18 16:16:24 +0000";
+glyphname = s.sc;
+lastChange = "2021-05-18 21:45:33 +0000";
 layers = (
 {
 background = {
@@ -30253,8 +30258,8 @@ width = 339;
 );
 },
 {
-glyphname = T.smcp;
-lastChange = "2021-05-18 16:16:24 +0000";
+glyphname = t.sc;
+lastChange = "2021-05-18 21:45:33 +0000";
 layers = (
 {
 background = {
@@ -30295,8 +30300,8 @@ width = 289;
 );
 },
 {
-glyphname = U.smcp;
-lastChange = "2021-05-18 16:11:54 +0000";
+glyphname = u.sc;
+lastChange = "2021-05-18 21:45:33 +0000";
 layers = (
 {
 background = {
@@ -30337,8 +30342,8 @@ width = 336;
 );
 },
 {
-glyphname = V.smcp;
-lastChange = "2021-05-18 16:11:54 +0000";
+glyphname = v.sc;
+lastChange = "2021-05-18 21:45:33 +0000";
 layers = (
 {
 background = {
@@ -30379,8 +30384,8 @@ width = 351;
 );
 },
 {
-glyphname = W.smcp;
-lastChange = "2021-05-18 16:11:54 +0000";
+glyphname = w.sc;
+lastChange = "2021-05-18 21:45:33 +0000";
 layers = (
 {
 background = {
@@ -30421,8 +30426,8 @@ width = 533;
 );
 },
 {
-glyphname = X.smcp;
-lastChange = "2021-05-18 16:11:54 +0000";
+glyphname = x.sc;
+lastChange = "2021-05-18 21:45:33 +0000";
 layers = (
 {
 background = {
@@ -30463,8 +30468,8 @@ width = 338;
 );
 },
 {
-glyphname = Y.smcp;
-lastChange = "2021-05-18 16:37:04 +0000";
+glyphname = y.sc;
+lastChange = "2021-05-18 21:45:33 +0000";
 layers = (
 {
 background = {
@@ -30505,8 +30510,8 @@ width = 328;
 );
 },
 {
-glyphname = Z.smcp;
-lastChange = "2021-05-18 16:11:54 +0000";
+glyphname = z.sc;
+lastChange = "2021-05-18 21:45:33 +0000";
 layers = (
 {
 background = {
