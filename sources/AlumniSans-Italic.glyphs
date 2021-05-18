@@ -149,6 +149,14 @@ value = 750;
 {
 name = typoLineGap;
 value = 0;
+},
+{
+name = winAscent;
+value = 910;
+},
+{
+name = winDescent;
+value = -310;
 }
 );
 descender = -116;
