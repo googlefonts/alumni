@@ -1,7 +1,9 @@
 {
 .appVersion = "1342";
 DisplayStrings = (
-murcielagobon
+murcielagobon,
+"/nbspace",
+"BJQRVæðgk/Be-cy/De-cy/U-cy/Ef-cy/Softsign-cy/Dje-cy/Yat-cy/Yusbig-cy/be-cy/ve-cy/ef-cy 125¼¾?{}¤£/approxequal ~/radical/partialdiff @§/ampersand.salt/tildecomb"
 );
 copyright = "Copyright 2015 The Alumni Sans Project Authors (https://github.com/googlefonts/alumni)";
 customParameters = (
@@ -162,6 +164,7 @@ value = -310;
 descender = -116;
 iconName = Light_SemiCondensed;
 id = "82B1C968-1149-4E0D-B361-F2F5D539D913";
+italicAngle = 8;
 xHeight = 495;
 },
 {
@@ -190,6 +193,7 @@ value = 0;
 descender = -116;
 iconName = Bold_SemiCondensed;
 id = "8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC";
+italicAngle = 8;
 weightValue = 900;
 xHeight = 495;
 }
@@ -402,6 +406,20 @@ width = 437;
 );
 },
 {
+glyphname = CR;
+layers = (
+{
+layerId = "82B1C968-1149-4E0D-B361-F2F5D539D913";
+width = 600;
+},
+{
+layerId = "8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC";
+width = 600;
+}
+);
+unicode = 000D;
+},
+{
 glyphname = space;
 lastChange = "2021-05-18 00:21:14 +0000";
 layers = (
@@ -415,6 +433,22 @@ width = 150;
 }
 );
 unicode = 0020;
+},
+{
+glyphname = nbspace;
+lastChange = "2021-05-18 14:17:01 +0000";
+layers = (
+{
+layerId = "82B1C968-1149-4E0D-B361-F2F5D539D913";
+width = 200;
+},
+{
+layerId = "8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC";
+width = 150;
+}
+);
+widthMetricsKey = space;
+unicode = 00A0;
 },
 {
 glyphname = A;
@@ -1922,7 +1956,7 @@ unicode = 00C6;
 },
 {
 glyphname = B;
-lastChange = "2021-05-18 00:21:22 +0000";
+lastChange = "2021-05-18 14:19:36 +0000";
 layers = (
 {
 background = {
@@ -1987,6 +2021,12 @@ nodes = (
 }
 );
 };
+guideLines = (
+{
+angle = 82;
+position = "{-5, 378}";
+}
+);
 layerId = "82B1C968-1149-4E0D-B361-F2F5D539D913";
 paths = (
 {
@@ -1994,7 +2034,7 @@ closed = 1;
 nodes = (
 "190 0 LINE SMOOTH",
 "261 0 OFFCURVE",
-"314 16 OFFCURVE",
+"313 16 OFFCURVE",
 "328 120 CURVE SMOOTH",
 "341 209 LINE SMOOTH",
 "349 267 OFFCURVE",
@@ -2010,7 +2050,7 @@ nodes = (
 "357 363 OFFCURVE",
 "365 419 CURVE SMOOTH",
 "376 494 LINE SMOOTH",
-"386 566 OFFCURVE",
+"387 566 OFFCURVE",
 "341 591 OFFCURVE",
 "283 591 CURVE SMOOTH",
 "122 591 LINE",
