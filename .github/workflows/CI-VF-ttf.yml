@@ -54,5 +54,5 @@ jobs:
         with:
           version: "latest"
           subcmd: "check-googlefonts"
-          args: "-C --succinct --loglopen .evel WARN --ghmarkdown fonts/report.md"
+          args: "-C --succinct --loglopen WARN --ghmarkdown fonts/report.md"
           path: "fonts/variable/*.ttf"
