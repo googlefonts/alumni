@@ -38129,17 +38129,17 @@ source = V;
 {
 color = 4;
 glyphname = w.sc;
-lastChange = "2021-05-28 01:42:10 +0000";
+lastChange = "2021-05-28 02:04:40 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{313, 0}";
+position = "{303, 0}";
 },
 {
 name = top;
-position = "{313, 495}";
+position = "{303, 495}";
 }
 );
 background = {
@@ -38179,40 +38179,40 @@ paths = (
 {
 closed = 1;
 nodes = (
-"275 0 LINE",
-"312 171 LINE",
-"350 0 LINE",
-"532 0 LINE",
-"617 495 LINE",
-"455 495 LINE",
-"415 194 LINE",
-"378 495 LINE",
-"247 495 LINE",
-"210 194 LINE",
-"170 495 LINE",
-"8 495 LINE",
-"92 0 LINE"
+"269 0 LINE",
+"302 173 LINE",
+"335 0 LINE",
+"517 0 LINE",
+"597 495 LINE",
+"436 495 LINE",
+"400 193 LINE",
+"367 495 LINE",
+"237 495 LINE",
+"204 193 LINE",
+"168 495 LINE",
+"7 495 LINE",
+"87 0 LINE"
 );
 }
 );
 userData = {
 RMXScaler = {
 height = 83.8;
-weight = -3;
-width = 98;
+weight = -4;
+width = 94;
 };
 };
-width = 625;
+width = 604;
 },
 {
 anchors = (
 {
 name = bottom;
-position = "{252, 0}";
+position = "{242, 0}";
 },
 {
 name = top;
-position = "{252, 495}";
+position = "{242, 495}";
 }
 );
 background = {
@@ -38252,29 +38252,29 @@ paths = (
 {
 closed = 1;
 nodes = (
-"147 0 LINE",
-"252 433 LINE",
-"357 0 LINE",
-"384 0 LINE",
-"478 495 LINE",
-"456 495 LINE",
-"367 41 LINE",
-"260 495 LINE",
-"243 495 LINE",
-"133 40 LINE",
-"46 495 LINE",
-"24 495 LINE",
-"118 0 LINE"
+"142 0 LINE",
+"242 433 LINE",
+"343 0 LINE",
+"370 0 LINE",
+"460 495 LINE",
+"438 495 LINE",
+"353 41 LINE",
+"250 495 LINE",
+"233 495 LINE",
+"128 40 LINE",
+"45 495 LINE",
+"23 495 LINE",
+"113 0 LINE"
 );
 }
 );
 userData = {
 RMXScaler = {
 height = 83.8;
-width = 98;
+width = 94;
 };
 };
-width = 502;
+width = 483;
 }
 );
 leftKerningGroup = w.sc;
