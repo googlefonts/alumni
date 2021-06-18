@@ -15,7 +15,7 @@ DisplayStrings = (
 "/ii-cy/iishort-cy/iishort-cy.loclBGR",
 "/ii-cy/iishort-cy/iishort-cy.loclBGR",
 "",
-"/commaturnedabovecomb ;/comma.tf/quotesinglbase/commaaccentcomb",
+"/commaturnedabovecomb/commaturnedabovecomb g/gcommaaccent G/Gcommaaccent ;/comma.tf/quotesinglbase/commaaccentcomb/Gcommaaccent/Kcommaaccent/Lcommaaccent/Ncommaaccent/Rcommaaccent/Scommaaccent/Tcommaaccent/kcommaaccent/lcommaaccent/ncommaaccent/rcommaaccent/scommaaccent/tcommaaccent/commaturnedabovecomb",
 "/circumflexcomb_acutecomb",
 "/circumflexcomb_tildecomb",
 "",
@@ -127,13 +127,13 @@ name = "Axis Mappings";
 value = {
 wght = {
 100 = 24;
-200 = 32;
-300 = 44;
-400 = 58;
-500 = 74;
-600 = 92;
-700 = 112;
-800 = 134;
+200 = 36;
+300 = 48;
+400 = 62;
+500 = 76;
+600 = 94;
+700 = 114;
+800 = 136;
 900 = 156;
 };
 };
@@ -162,7 +162,7 @@ name = aalt;
 },
 {
 automatic = 1;
-code = "lookup ccmp_Other_1 {\012	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];\012	@CombiningNonTopAccents = [cedillacomb commaaccent dotbelowcomb ogonekcomb horncomb];\012	sub [i j]' @CombiningTopAccents by [idotless jdotless];\012	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];\012	@Markscomb = [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb hookabovecomb horncomb];\012	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case hookabovecomb.case horncomb.case];\012	sub @Markscomb @Markscomb' by @MarkscombCase;\012	sub @Uppercase @Markscomb' by @MarkscombCase;\012} ccmp_Other_1;\012\012lookup ccmp_Other_2 {\012	sub @Markscomb' @MarkscombCase by @MarkscombCase;\012	sub @MarkscombCase @Markscomb' by @MarkscombCase;\012} ccmp_Other_2;\012\012lookup ccmp_latn_1 {\012	lookupflag 0;\012	sub brevecomb acutecomb by brevecomb_acutecomb;\012	sub brevecomb gravecomb by brevecomb_gravecomb;\012	sub brevecomb hookabovecomb by brevecomb_hookabovecomb;\012	sub brevecomb tildecomb by brevecomb_tildecomb;\012	sub circumflexcomb acutecomb by circumflexcomb_acutecomb;\012	sub circumflexcomb gravecomb by circumflexcomb_gravecomb;\012	sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;\012	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;\012} ccmp_latn_1;\012\012script latn;\012lookup ccmp_latn_1;\012";
+code = "lookup ccmp_Other_1 {\012	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];\012	@CombiningNonTopAccents = [cedillacomb dotbelowcomb ogonekcomb horncomb];\012	sub [i j]' @CombiningTopAccents by [idotless jdotless];\012	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];\012	@Markscomb = [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb hookabovecomb horncomb brevecomb_acutecomb brevecomb_gravecomb brevecomb_hookabovecomb brevecomb_tildecomb circumflexcomb_acutecomb circumflexcomb_gravecomb circumflexcomb_hookabovecomb circumflexcomb_tildecomb];\012	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case hookabovecomb.case horncomb.case brevecomb_acutecomb.case brevecomb_gravecomb.case brevecomb_hookabovecomb.case brevecomb_tildecomb.case circumflexcomb_acutecomb.case circumflexcomb_gravecomb.case circumflexcomb_hookabovecomb.case circumflexcomb_tildecomb.case];\012	sub @Markscomb @Markscomb' by @MarkscombCase;\012	sub @Uppercase @Markscomb' by @MarkscombCase;\012} ccmp_Other_1;\012\012lookup ccmp_Other_2 {\012	sub @Markscomb' @MarkscombCase by @MarkscombCase;\012	sub @MarkscombCase @Markscomb' by @MarkscombCase;\012} ccmp_Other_2;\012\012lookup ccmp_latn_1 {\012	lookupflag 0;\012	sub brevecomb acutecomb by brevecomb_acutecomb;\012	sub brevecomb.case acutecomb.case by brevecomb_acutecomb.case;\012	sub brevecomb gravecomb by brevecomb_gravecomb;\012	sub brevecomb.case gravecomb.case by brevecomb_gravecomb.case;\012	sub brevecomb hookabovecomb by brevecomb_hookabovecomb;\012	sub brevecomb.case hookabovecomb.case by brevecomb_hookabovecomb.case;\012	sub brevecomb tildecomb by brevecomb_tildecomb;\012	sub brevecomb.case tildecomb.case by brevecomb_tildecomb.case;\012	sub circumflexcomb acutecomb by circumflexcomb_acutecomb;\012	sub circumflexcomb.case acutecomb.case by circumflexcomb_acutecomb.case;\012	sub circumflexcomb gravecomb by circumflexcomb_gravecomb;\012	sub circumflexcomb.case gravecomb.case by circumflexcomb_gravecomb.case;\012	sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;\012	sub circumflexcomb.case hookabovecomb.case by circumflexcomb_hookabovecomb.case;\012	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;\012	sub circumflexcomb.case tildecomb.case by circumflexcomb_tildecomb.case;\012} ccmp_latn_1;\012\012script latn;\012lookup ccmp_latn_1;\012";
 name = ccmp;
 },
 {
@@ -226,7 +226,7 @@ name = salt;
 },
 {
 automatic = 1;
-code = "sub dieresiscomb by dieresiscomb.case;\012sub dotaccentcomb by dotaccentcomb.case;\012sub gravecomb by gravecomb.case;\012sub acutecomb by acutecomb.case;\012sub hungarumlautcomb by hungarumlautcomb.case;\012sub circumflexcomb by circumflexcomb.case;\012sub caroncomb by caroncomb.case;\012sub brevecomb by brevecomb.case;\012sub ringcomb by ringcomb.case;\012sub tildecomb by tildecomb.case;\012sub macroncomb by macroncomb.case;\012sub hookabovecomb by hookabovecomb.case;\012sub horncomb by horncomb.case;\012";
+code = "sub dieresiscomb by dieresiscomb.case;\012sub dotaccentcomb by dotaccentcomb.case;\012sub gravecomb by gravecomb.case;\012sub acutecomb by acutecomb.case;\012sub hungarumlautcomb by hungarumlautcomb.case;\012sub circumflexcomb by circumflexcomb.case;\012sub caroncomb by caroncomb.case;\012sub brevecomb by brevecomb.case;\012sub ringcomb by ringcomb.case;\012sub tildecomb by tildecomb.case;\012sub macroncomb by macroncomb.case;\012sub hookabovecomb by hookabovecomb.case;\012sub horncomb by horncomb.case;\012sub brevecomb_acutecomb by brevecomb_acutecomb.case;\012sub brevecomb_gravecomb by brevecomb_gravecomb.case;\012sub brevecomb_hookabovecomb by brevecomb_hookabovecomb.case;\012sub brevecomb_tildecomb by brevecomb_tildecomb.case;\012sub circumflexcomb_acutecomb by circumflexcomb_acutecomb.case;\012sub circumflexcomb_gravecomb by circumflexcomb_gravecomb.case;\012sub circumflexcomb_hookabovecomb by circumflexcomb_hookabovecomb.case;\012sub circumflexcomb_tildecomb by circumflexcomb_tildecomb.case;\012";
 name = case;
 }
 );
@@ -4758,13 +4758,13 @@ unicode = 0046;
 {
 color = 4;
 glyphname = G;
-lastChange = "2021-05-28 00:49:32 +0000";
+lastChange = "2021-06-18 01:46:08 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{198, 0}";
+position = "{200, 0}";
 },
 {
 name = top;
@@ -5041,17 +5041,13 @@ unicode = 011E;
 {
 color = 4;
 glyphname = Gcommaaccent;
-lastChange = "2021-06-09 15:53:46 +0000";
+lastChange = "2021-06-18 01:46:16 +0000";
 layers = (
 {
 background = {
 components = (
 {
 name = G;
-},
-{
-name = commaaccent;
-transform = "{1, 0, 0, 1, 107, 9}";
 }
 );
 };
@@ -5061,7 +5057,7 @@ name = G;
 },
 {
 name = commaaccentcomb;
-transform = "{1, 0, 0, 1, 131, 0}";
+transform = "{1, 0, 0, 1, 133, 0}";
 }
 );
 layerId = "8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC";
@@ -5072,10 +5068,6 @@ background = {
 components = (
 {
 name = G;
-},
-{
-name = commaaccent;
-transform = "{1, 0, 0, 1, 130, 32}";
 }
 );
 };
@@ -6275,17 +6267,13 @@ unicode = 004B;
 {
 color = 4;
 glyphname = Kcommaaccent;
-lastChange = "2021-06-09 15:53:46 +0000";
+lastChange = "2021-06-18 01:47:14 +0000";
 layers = (
 {
 background = {
 components = (
 {
 name = K;
-},
-{
-name = commaaccent;
-transform = "{1, 0, 0, 1, 93, 0}";
 }
 );
 };
@@ -6306,10 +6294,6 @@ background = {
 components = (
 {
 name = K;
-},
-{
-name = commaaccent;
-transform = "{1, 0, 0, 1, 110, 48}";
 }
 );
 };
@@ -6556,17 +6540,13 @@ unicode = 013D;
 {
 color = 4;
 glyphname = Lcommaaccent;
-lastChange = "2021-06-09 15:53:46 +0000";
+lastChange = "2021-06-18 01:47:23 +0000";
 layers = (
 {
 background = {
 components = (
 {
 name = L;
-},
-{
-name = commaaccent;
-transform = "{1, 0, 0, 1, 44, 13}";
 }
 );
 };
@@ -6587,10 +6567,6 @@ background = {
 components = (
 {
 name = L;
-},
-{
-name = commaaccent;
-transform = "{1, 0, 0, 1, 94, 47}";
 }
 );
 };
@@ -7062,17 +7038,13 @@ unicode = 0147;
 {
 color = 4;
 glyphname = Ncommaaccent;
-lastChange = "2021-06-09 15:53:46 +0000";
+lastChange = "2021-06-18 01:47:29 +0000";
 layers = (
 {
 background = {
 components = (
 {
 name = N;
-},
-{
-name = commaaccent;
-transform = "{1, 0, 0, 1, 89, 14}";
 }
 );
 };
@@ -7093,10 +7065,6 @@ background = {
 components = (
 {
 name = N;
-},
-{
-name = commaaccent;
-transform = "{1, 0, 0, 1, 128, 42}";
 }
 );
 };
@@ -10185,17 +10153,13 @@ unicode = 0158;
 {
 color = 4;
 glyphname = Rcommaaccent;
-lastChange = "2021-06-09 15:53:46 +0000";
+lastChange = "2021-06-18 01:47:38 +0000";
 layers = (
 {
 background = {
 components = (
 {
 name = R;
-},
-{
-name = commaaccent;
-transform = "{1, 0, 0, 1, 95, 12}";
 }
 );
 };
@@ -10216,10 +10180,6 @@ background = {
 components = (
 {
 name = R;
-},
-{
-name = commaaccent;
-transform = "{1, 0, 0, 1, 128, 51}";
 }
 );
 };
@@ -10698,17 +10658,13 @@ unicode = 015E;
 {
 color = 4;
 glyphname = Scommaaccent;
-lastChange = "2021-06-09 15:53:46 +0000";
+lastChange = "2021-06-18 01:47:46 +0000";
 layers = (
 {
 background = {
 components = (
 {
 name = S;
-},
-{
-name = commaaccentcomb;
-transform = "{1, 0, 0, 1, 95, 9}";
 }
 );
 };
@@ -10729,10 +10685,6 @@ background = {
 components = (
 {
 name = S;
-},
-{
-name = commaaccentcomb;
-transform = "{1, 0, 0, 1, 125, 42}";
 }
 );
 };
@@ -11464,17 +11416,13 @@ unicode = 0162;
 {
 color = 4;
 glyphname = Tcommaaccent;
-lastChange = "2021-06-09 15:53:46 +0000";
+lastChange = "2021-06-18 01:47:54 +0000";
 layers = (
 {
 background = {
 components = (
 {
 name = T;
-},
-{
-name = commaaccentcomb;
-transform = "{1, 0, 0, 1, 56, 0}";
 }
 );
 };
@@ -11495,10 +11443,6 @@ background = {
 components = (
 {
 name = T;
-},
-{
-name = commaaccentcomb;
-transform = "{1, 0, 0, 1, 58, 49}";
 }
 );
 };
@@ -19269,20 +19213,9 @@ unicode = 011F;
 {
 color = 4;
 glyphname = gcommaaccent;
-lastChange = "2021-06-18 00:46:44 +0000";
+lastChange = "2021-06-18 01:27:24 +0000";
 layers = (
 {
-background = {
-components = (
-{
-name = g;
-},
-{
-name = comma;
-transform = "{-1, 0, 0, -0.79798, 319, 635}";
-}
-);
-};
 components = (
 {
 name = g;
@@ -19296,19 +19229,6 @@ layerId = "8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC";
 width = 391;
 },
 {
-background = {
-components = (
-{
-alignment = -1;
-name = g;
-},
-{
-alignment = -1;
-name = comma;
-transform = "{-1, 0, 0, -0.99406, 256, 578}";
-}
-);
-};
 components = (
 {
 name = g;
@@ -20840,17 +20760,13 @@ unicode = 006B;
 {
 color = 4;
 glyphname = kcommaaccent;
-lastChange = "2021-06-09 15:53:46 +0000";
+lastChange = "2021-06-18 01:48:33 +0000";
 layers = (
 {
 background = {
 components = (
 {
 name = k;
-},
-{
-name = commaaccent;
-transform = "{1, 0, 0, 1, 96, 15}";
 }
 );
 };
@@ -20871,10 +20787,6 @@ background = {
 components = (
 {
 name = k;
-},
-{
-name = commaaccent;
-transform = "{1, 0, 0, 1, 77, 45}";
 }
 );
 };
@@ -21130,16 +21042,13 @@ unicode = 013E;
 {
 color = 4;
 glyphname = lcommaaccent;
-lastChange = "2021-06-09 15:53:46 +0000";
+lastChange = "2021-06-18 01:48:42 +0000";
 layers = (
 {
 background = {
 components = (
 {
 name = l;
-},
-{
-name = commaaccent;
 }
 );
 };
@@ -21160,10 +21069,6 @@ background = {
 components = (
 {
 name = l;
-},
-{
-name = commaaccent;
-transform = "{1, 0, 0, 1, -19, 64}";
 }
 );
 };
@@ -21753,17 +21658,13 @@ unicode = 0148;
 {
 color = 4;
 glyphname = ncommaaccent;
-lastChange = "2021-06-09 15:53:46 +0000";
+lastChange = "2021-06-18 01:48:49 +0000";
 layers = (
 {
 background = {
 components = (
 {
 name = n;
-},
-{
-name = commaaccent;
-transform = "{1, 0, 0, 1, 90, 17}";
 }
 );
 };
@@ -21784,10 +21685,6 @@ background = {
 components = (
 {
 name = n;
-},
-{
-name = commaaccent;
-transform = "{1, 0, 0, 1, 78, 62}";
 }
 );
 };
@@ -24791,17 +24688,13 @@ unicode = 0159;
 {
 color = 4;
 glyphname = rcommaaccent;
-lastChange = "2021-06-09 15:53:46 +0000";
+lastChange = "2021-06-18 01:48:56 +0000";
 layers = (
 {
 background = {
 components = (
 {
 name = r;
-},
-{
-name = commaaccent;
-transform = "{1, 0, 0, 1, -3, 1}";
 }
 );
 };
@@ -24822,10 +24715,6 @@ background = {
 components = (
 {
 name = r;
-},
-{
-name = commaaccent;
-transform = "{1, 0, 0, 1, -24, 39}";
 }
 );
 };
@@ -25298,17 +25187,13 @@ unicode = 015F;
 {
 color = 4;
 glyphname = scommaaccent;
-lastChange = "2021-06-09 15:53:42 +0000";
+lastChange = "2021-06-18 01:49:02 +0000";
 layers = (
 {
 background = {
 components = (
 {
 name = s;
-},
-{
-name = commaaccentcomb;
-transform = "{1, 0, 0, 1, 94, 0}";
 }
 );
 };
@@ -25329,10 +25214,6 @@ background = {
 components = (
 {
 name = s;
-},
-{
-name = commaaccentcomb;
-transform = "{1, 0, 0, 1, 86, 28}";
 }
 );
 };
@@ -26168,17 +26049,13 @@ unicode = 0163;
 {
 color = 4;
 glyphname = tcommaaccent;
-lastChange = "2021-06-09 15:53:46 +0000";
+lastChange = "2021-06-18 01:49:08 +0000";
 layers = (
 {
 background = {
 components = (
 {
 name = t;
-},
-{
-name = commaaccentcomb;
-transform = "{1, 0, 0, 1, 63, 0}";
 }
 );
 };
@@ -26199,10 +26076,6 @@ background = {
 components = (
 {
 name = t;
-},
-{
-name = commaaccentcomb;
-transform = "{1, 0, 0, 1, 40, 25}";
 }
 );
 };
@@ -71599,7 +71472,7 @@ unicode = 0309;
 {
 color = 9;
 glyphname = commaturnedabovecomb;
-lastChange = "2021-06-18 00:46:47 +0000";
+lastChange = "2021-06-18 01:25:56 +0000";
 layers = (
 {
 anchors = (
@@ -71695,7 +71568,7 @@ nodes = (
 components = (
 {
 name = commaaccentcomb;
-transform = "{-1, 0, 0, -1, 47, 503}";
+transform = "{-1, 0, 0, -1, 41, 503}";
 }
 );
 hints = (
@@ -77822,10 +77695,10 @@ name = weightClass;
 value = 200;
 }
 );
-interpolationWeight = 32;
+interpolationWeight = 36;
 instanceInterpolations = {
-"5AAFD18E-AEF5-43C3-A12E-1BAE6B19067F" = 0.93939;
-"8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC" = 0.06061;
+"5AAFD18E-AEF5-43C3-A12E-1BAE6B19067F" = 0.90909;
+"8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC" = 0.09091;
 };
 name = ExtraLight;
 weightClass = ExtraLight;
@@ -77837,10 +77710,10 @@ name = weightClass;
 value = 300;
 }
 );
-interpolationWeight = 44;
+interpolationWeight = 48;
 instanceInterpolations = {
-"5AAFD18E-AEF5-43C3-A12E-1BAE6B19067F" = 0.84848;
-"8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC" = 0.15152;
+"5AAFD18E-AEF5-43C3-A12E-1BAE6B19067F" = 0.81818;
+"8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC" = 0.18182;
 };
 name = Light;
 weightClass = Light;
@@ -77852,10 +77725,10 @@ name = weightClass;
 value = 400;
 }
 );
-interpolationWeight = 58;
+interpolationWeight = 62;
 instanceInterpolations = {
-"5AAFD18E-AEF5-43C3-A12E-1BAE6B19067F" = 0.74242;
-"8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC" = 0.25758;
+"5AAFD18E-AEF5-43C3-A12E-1BAE6B19067F" = 0.71212;
+"8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC" = 0.28788;
 };
 name = Regular;
 },
@@ -77866,10 +77739,10 @@ name = weightClass;
 value = 500;
 }
 );
-interpolationWeight = 74;
+interpolationWeight = 76;
 instanceInterpolations = {
-"5AAFD18E-AEF5-43C3-A12E-1BAE6B19067F" = 0.62121;
-"8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC" = 0.37879;
+"5AAFD18E-AEF5-43C3-A12E-1BAE6B19067F" = 0.60606;
+"8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC" = 0.39394;
 };
 name = Medium;
 weightClass = Medium;
@@ -77881,10 +77754,10 @@ name = weightClass;
 value = 600;
 }
 );
-interpolationWeight = 92;
+interpolationWeight = 94;
 instanceInterpolations = {
-"5AAFD18E-AEF5-43C3-A12E-1BAE6B19067F" = 0.48485;
-"8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC" = 0.51515;
+"5AAFD18E-AEF5-43C3-A12E-1BAE6B19067F" = 0.4697;
+"8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC" = 0.5303;
 };
 name = SemiBold;
 weightClass = SemiBold;
@@ -77896,10 +77769,10 @@ name = weightClass;
 value = 700;
 }
 );
-interpolationWeight = 112;
+interpolationWeight = 114;
 instanceInterpolations = {
-"5AAFD18E-AEF5-43C3-A12E-1BAE6B19067F" = 0.33333;
-"8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC" = 0.66667;
+"5AAFD18E-AEF5-43C3-A12E-1BAE6B19067F" = 0.31818;
+"8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC" = 0.68182;
 };
 isBold = 1;
 name = Bold;
@@ -77912,10 +77785,10 @@ name = weightClass;
 value = 800;
 }
 );
-interpolationWeight = 134;
+interpolationWeight = 136;
 instanceInterpolations = {
-"5AAFD18E-AEF5-43C3-A12E-1BAE6B19067F" = 0.16667;
-"8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC" = 0.83333;
+"5AAFD18E-AEF5-43C3-A12E-1BAE6B19067F" = 0.15152;
+"8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC" = 0.84848;
 };
 name = ExtraBold;
 weightClass = ExtraBold;
@@ -78294,5 +78167,5 @@ tH = "90";
 };
 };
 versionMajor = 1;
-versionMinor = 13;
+versionMinor = 14;
 }
