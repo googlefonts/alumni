@@ -3,24 +3,24 @@
 DisplayStrings = (
 "nnnnnoooonnononnn\012nn/Placeholder no/Placeholder oo\012abcdefghijkolmn\012opqrostouovonwoxoyoz",
 "HHHOOOHOHOHHH\012HH/Placeholder HO/Placeholder OOno\012ABCDEFGHIJKOLOMN\012OPQRSOTOUOVOWOXOYOZO\0120123456789",
-"AÁ/Abreve/Abreveacute/Abrevedotbelow/Abrevegrave/Abrevehookabove/tildecomb/brevecomb_tildecomb/Abrevetilde/Acaron Â/Acircumflexacute/Acircumflexdotbelow/Acircumflexgrave/Acircumflexhookabove/Acircumflextilde Ä/Adotbelow À/Ahookabove",
-"á/cacute éí/lacute/nacute ó/horncomb/ohorn/ohornacute/racute/sacute ú/udieresisacute/uhornacute/wacute ý/zacute Á/Abreve/Abreveacute/Abrevedotbelow/Abrevegrave/Abrevehookabove/Abrevetilde/Acaron Â/Acircumflexacute/Acircumflexdotbelow/Acircumflexgrave/Acircumflexhookabove/Acircumflextilde Ä/Adotbelow À/Ahookabove/Amacron/Aogonek ÅÃ",
-"/dotbelowcomb :;/ellipsis ·/period.tf/Abrevedotbelow",
+"AÁ/Abreve/Abreveacute/Abrevedotbelow/Abrevegrave/Abrevehookabove/brevecomb_tildecomb/Abrevetilde/Acaron Â/Acircumflexacute/Acircumflexdotbelow/Acircumflexgrave/Acircumflexhookabove/Acircumflextilde Ä/Adotbelow À/Ahookabove",
+"á/cacute éí/lacute/nacute ó/ohorn/ohornacute/racute/sacute ú/udieresisacute/uhornacute/wacute ý/zacute Á/Abreve/Abreveacute/Abrevedotbelow/Abrevegrave/Abrevehookabove/Abrevetilde/Acaron Â/Acircumflexacute/Acircumflexdotbelow/Acircumflexgrave/Acircumflexhookabove/Acircumflextilde Ä/Adotbelow À/Ahookabove/Amacron/Aogonek ÅÃ",
+":;/ellipsis ·/period.tf/Abrevedotbelow",
 "l/caroncomb.alt ,/caroncomb.alt l/lcaron LHHL/Lcaron HHHt/caroncomb.alt/tcaron d/dcaron/zcaron/space/dcaron ongr/space/dcaron t/space/dcaron k",
 "0/Placeholder 0/space 1/Placeholder 1/space 2/Placeholder 2/space 3/Placeholder 3/space 4/Placeholder 4/space 5/Placeholder 5/space 6/Placeholder 6/space 7/Placeholder 7/space 8/Placeholder 8/space 9/Placeholder 9\012/foursuperior ­/space 7/divisionslash 746/space 1//241/divisionslash 2/space 727\012HHH1HH2HH3HH4HH5HH6HH7HH8HH9HH0HHO",
-"/dieresiscomb/dotaccentcomb/gravecomb/acutecomb/hungarumlautcomb/caroncomb.alt/circumflexcomb/caroncomb/brevecomb/ringcomb/tildecomb/macroncomb/hookabovecomb/commaaccent/commaturnedabovecomb/horncomb/dotbelowcomb/commaaccent/commaaccentcomb/cedillacomb/ogonekcomb",
+"/dieresiscomb/dotaccentcomb/hungarumlautcomb/caroncomb.alt/caroncomb/ringcomb/macroncomb/commaturnedabovecomb/commaaccentcomb/cedillacomb/ogonekcomb",
 "/dieresiscomb.case/dotaccentcomb.case/gravecomb.case/acutecomb.case/hungarumlautcomb.case/circumflexcomb.case/caroncomb.case/brevecomb.case/ringcomb.case/tildecomb.case/macroncomb.case/hookabovecomb.case/horncomb.case",
-"/dieresiscomb/dotaccentcomb/gravecomb/acutecomb/hungarumlautcomb/caroncomb.alt/circumflexcomb/caroncomb/brevecomb/ringcomb/tildecomb/macroncomb/hookabovecomb g/gcommaaccent/commaturnedabovecomb/kcommaaccent/lcommaaccent/ncommaaccent/rcommaaccent/horncomb/dotbelowcomb/commaaccent/commaaccentcomb/cedillacomb/ogonekcomb/Aogonek/Eogonek/Iogonek/Uogonek/aogonek/eogonek/iogonek u/uogonek/ogonek ç",
+"/dieresiscomb/dotaccentcomb/hungarumlautcomb/caroncomb.alt/caroncomb/ringcomb/macroncomb g/gcommaaccent/commaturnedabovecomb/kcommaaccent/lcommaaccent/ncommaaccent/rcommaaccent/commaaccentcomb/cedillacomb/ogonekcomb/Aogonek/Eogonek/Iogonek/Uogonek/aogonek/eogonek/iogonek u/uogonek/ogonek ç",
 "/commaaccentcomb/Gcommaaccent KK/Kcommaaccent L/Lcommaaccent/Ncommaaccent R/Rcommaaccent S/Scommaaccent T/Tcommaaccent k/kcommaaccent/lcommaaccent n/ncommaaccent r/rcommaaccent s/scommaaccent t/tcommaaccent/kcommaaccent",
 "/ii-cy/iishort-cy/iishort-cy.loclBGR",
 "/ii-cy/iishort-cy/iishort-cy.loclBGR",
-"/hookabovecomb",
+"",
 "UU/Uhorn T/space OO/horncomb.case O/Ohorn T",
-"/acutecomb/circumflexcomb/circumflexcomb_acutecomb",
-"/tildecomb/circumflexcomb/tildecomb/tildecomb/circumflexcomb/circumflexcomb_tildecomb",
-"/circumflexcomb",
+"/circumflexcomb_acutecomb",
+"/circumflexcomb_tildecomb",
+"",
 "/acutecomb.case/brevecomb.case",
-"/acutecomb/brevecomb/brevecomb_acutecomb",
+"/brevecomb_acutecomb",
 "/circumflexcomb_tildecomb.case",
 "/brevecomb_gravecomb.case",
 "/brevecomb_hookabovecomb.case",
@@ -29,8 +29,8 @@ DisplayStrings = (
 "/circumflexcomb_acutecomb.case",
 "/circumflexcomb_hookabovecomb.case",
 "/brevecomb_acutecomb.case A/Abreveacute",
-"/gravecomb/iigrave-cy",
-"/brevecomb/brevecomb.case/Iishort-cy",
+"/iigrave-cy",
+"/brevecomb.case/Iishort-cy",
 "/U-cy/Ushort-cy",
 "/Ii-cy/Iigrave-cy",
 "/Iigrave-cy",
@@ -43,7 +43,7 @@ DisplayStrings = (
 "TH/brevecomb_hookabovecomb.case/Abrevehookabove M/space L/Abreveacute C/space NH/Acircumflexacute T/space TRÍ/space L/Acircumflexgrave M/space T/Uhorn/Ohornhookabove NG/space CH/hookabovecomb.case/Ihookabove NH",
 "/caron",
 "/ocircumflexhookabove",
-"/tildecomb/circumflexcomb_tildecomb/ocircumflextilde",
+"/circumflexcomb_tildecomb/ocircumflextilde",
 "ò",
 "Á/Abreve/Abreveacute/Abrevedotbelow/Abrevegrave/Abrevehookabove/Abrevetilde Â/Acircumflexacute/Acircumflexdotbelow/Acircumflexgrave/Acircumflexhookabove/Acircumflextilde/Adotbelow À/Ahookabove Ã/Dcroat ÉÊ/Ecircumflexacute/Ecircumflexdotbelow/Ecircumflexgrave/Ecircumflexhookabove/Ecircumflextilde/Edotbelow È/Ehookabove/Etilde Í/Idotbelow Ì/Ihookabove/Itilde ÓÔ/Ocircumflexacute/Ocircumflexdotbelow/Ocircumflexgrave/Ocircumflexhookabove/Ocircumflextilde/Odotbelow Ò/Ohookabove/Ohorn/Ohornacute/Ohorndotbelow/Ohorngrave/Ohornhookabove O/Ohorn/Ohorntilde ÕÚ/Udotbelow Ù/Uhookabove/Uhorn/Uhornacute/Uhorndotbelow/Uhorngrave/Uhornhookabove/Uhorntilde/Utilde Ý/Ydotbelow/Ygrave/Yhookabove/Ytilde",
 "Á/Abreve/Abreveacute/Abrevedotbelow/Abrevegrave/Abrevehookabove/Abrevetilde Â/Acircumflexacute/Acircumflexdotbelow/Acircumflexgrave/Acircumflexhookabove/Acircumflextilde/Adotbelow À/Ahookabove Ã/Dcroat ÉÊ/Ecircumflexacute/Ecircumflexdotbelow/Ecircumflexgrave/Ecircumflexhookabove/Ecircumflextilde/Edotbelow È/Ehookabove/Etilde Í/Idotbelow Ì/Ihookabove/Itilde ÓÔ/Ocircumflexacute/Ocircumflexdotbelow/Ocircumflexgrave/Ocircumflexhookabove/Ocircumflextilde/Odotbelow Ò/Ohookabove/Ohorn/Ohornacute/Ohorndotbelow/Ohorngrave/Ohornhookabove/Ohorntilde ÕÚ/Udotbelow Ù/Uhookabove/Uhorn/Uhornacute/Uhorndotbelow/Uhorngrave/Uhornhookabove/Uhorntilde/Utilde Ý/Ydotbelow/Ygrave/Yhookabove/Ytilde",
@@ -57,12 +57,17 @@ DisplayStrings = (
 "/brevecomb-cy/Iishort-cy",
 "/ii-cy.loclBGR 5",
 "/circumflexcomb_hookabovecomb.case/Acircumflexhookabove",
-"/brevecomb_acutecomb.case",
+"/brevecomb_acutecomb.case/ohorn/ohorn/ohorndotbelow",
 ";",
 "/acutecomb.case/Udieresisacute ÄËÏÖÜ/caroncomb.case/Acaron/Ccaron/Dcaron/Ecaron/Icaron/Ncaron/Ocaron/Rcaron/Scaron/Tcaron/Ucaron/caroncomb.case/Udieresiscaron/Zcaron/Udieresiscaron/Udieresisgrave/Udieresismacron/Wdieresis/Ydieresis/Io-cy/Yi-cy",
 "E/Edotbelow/cedillacomb Ç/Scedilla/Tcedilla jcçps/sacute/scaron/scedilla j/commaaccentcomb p/scommaaccent/dze-cy/scedilla/cedillacomb ¸áüê/macroncomb/omacron/space",
 "/fraction ¹/fraction ²/fraction ³/fraction/foursuperior/fraction ½",
-"Tr/abreve m/space n/abreve m/space trong/space cõi/space ng/uhorn/ohorngrave i/space ta,/space ch/uhorntilde/space tài/space ch/uhorntilde/space m/ecircumflexdotbelow nh/space khéo/space là/space ghét/space nhau./space Tr/ahookabove i/space qua/space m/ocircumflexdotbelow t/space cu/ocircumflexdotbelow c/space b/ecircumflexhookabove/space dâu,/space nh/uhorntilde ng/space/dcroat i/ecircumflexgrave u/space trông/space th/acircumflexacute y/space mà/space/dcroat au/space/dcroat/ohornacute n/space lòng./space L/adotbelow/space gì/space b/ihookabove/space s/abreveacute c/space t/uhorn/space phong,/space tr/ohorngrave i/space xanh/space quen/space thói/space má/space h/ocircumflexgrave ng/space/dcroat ánh/space ghen./space C/ahookabove o/space th/ohorn m/space l/acircumflexgrave n/space gi/ohornhookabove/space tr/uhorn/ohornacute c/space/dcroat èn,/space phong/space Tình/space có/space l/udotbelow c/space còn/space truy/ecircumflexgrave n/space s/uhornhookabove/space xanh./space R/abrevegrave ng/space n/abreve m/space Gia/space T/itilde nh/space tri/ecircumflexgrave u/space Minh,/space b/ocircumflexacute n/space ph/uhorn/ohorn ng/space ph/abrevehookabove ng/space l/abrevedotbelow ng,/space hai/space kinh/space v/uhorntilde ng/space vàng./space Có/space nhà/space viên/space ngo/adotbelow i/space h/odotbelow/space V/uhorn/ohorn ng,/space gia/space t/uhorn/space ngh/itilde/space c/utilde ng/space th/uhorn/ohorngrave ng/space th/uhorn/ohorngrave ng/space b/uhorndotbelow c/space trung./space M/ocircumflexdotbelow t/space trai/space con/space th/uhornacute/space r/ocircumflexacute t/space lòng,/space v/uhorn/ohorn ng/space Quan/space là/space ch/uhorntilde ,/space n/ocircumflexacute i/space dòng/space nho/space gia./space/Dcroat/acircumflexgrave u/space lòng/space hai/space/ahookabove/space T/ocircumflexacute/space nga,/space Thúy/space Ki/ecircumflexgrave u/space là/space ch/idotbelow ,/space em/space là/space Thúy/space Vân./space Mai/space c/ocircumflexacute t/space cách,/space tuy/ecircumflexacute t/space tinh/space th/acircumflexgrave n,/space m/ocircumflexdotbelow t/space ng/uhorn/ohorngrave i/space m/ocircumflexdotbelow t/space v/ehookabove ,/space m/uhorn/ohorngrave i/space phân/space v/edotbelow n/space m/uhorn/ohorngrave i./space Vân/space xem/space trang/space tr/odotbelow ng/space khác/space v/ohorngrave i,/space khuôn/space tr/abreve ng/space/dcroat/acircumflexgrave y/space/dcroat/abrevedotbelow n,/space nét/space ngài/space n/ohornhookabove/space nang./space Hoa/space c/uhorn/ohorngrave i/space ng/odotbelow c/space th/ocircumflexacute t/space/dcroat oan/space trang,/space mây/space thua/space n/uhorn/ohornacute c/space tóc,/space tuy/ecircumflexacute t/space nh/uhorn/ohorngrave ng/space màu/space da./space Ki/ecircumflexgrave u/space càng/space s/abreveacute c/space s/ahookabove o,/space m/abrevedotbelow n/space mà,/space so/space b/ecircumflexgrave/space tài,/space s/abreveacute c,/space l/adotbelow i/space là/space ph/acircumflexgrave n/space h/ohorn n./space Làn/space thu/space th/uhookabove y,/space nét/space xuân/space s/ohorn n,/space hoa/space ghen/space thua/space th/abreveacute m,/space li/ecircumflextilde u/space h/ohorngrave n/space kém/space xanh./space M/ocircumflexdotbelow t,/space hai/space nghiêng/space n/uhorn/ohornacute c/space nghiêng/space thành,/space s/abreveacute c/space/dcroat ành/space/dcroat òi/space m/ocircumflexdotbelow t,/space tài/space/dcroat ành/space h/odotbelow a/space hai./space Thông/space minh/space v/ocircumflexacute n/space s/abrevetilde n/space t/uhorn/space tr/ohorngrave i,/space pha/space ngh/ecircumflexgrave/space thi/space h/odotbelow a,/space/dcroat/uhookabove/space mùi/space ca/space ngâm./space Cung/space th/uhorn/ohorn ng/space làu/space b/acircumflexdotbelow c/space ng/utilde/space âm,/space ngh/ecircumflexgrave/space riêng/space/abreve n/space/dcroat/uhornacute t/space H/ocircumflexgrave/space c/acircumflexgrave m/space m/ocircumflexdotbelow t/space tr/uhorn/ohorn ng./space Khúc/space nhà/space tay/space l/uhorndotbelow a/space nên/space ch/uhorn/ohorn ng,/space m/ocircumflexdotbelow t/space thiên/space b/adotbelow c/space m/ecircumflexdotbelow nh,/space l/adotbelow i/space càng/space não/space nhân./space Phong/space l/uhorn u/space r/acircumflexacute t/space m/uhorndotbelow c/space h/ocircumflexgrave ng/space qu/acircumflexgrave n,/space xuân/space xanh/space s/acircumflexacute p/space x/ihookabove/space t/ohornacute i/space tu/acircumflexgrave n/space c/acircumflexdotbelow p/space kê./space Êm/space/dcroat/ecircumflexgrave m/space tr/uhorn/ohornacute ng/space r/uhookabove/space màn/space che,/space t/uhorn/ohorngrave ng/space/dcroat ông/space ong/space b/uhorn/ohornacute m/space/dcroat i/space v/ecircumflexgrave/space m/abrevedotbelow c/space ai./space Ngày/space xuân/space con/space én/space/dcroat/uhorn a/space thoi,/space thi/ecircumflexgrave u/space quang/space chín/space ch/udotbelow c/space/dcroat ã/space ngoài/space sáu/space m/uhorn/ohorn i./space C/ohookabove/space non/space xanh/space t/acircumflexdotbelow n/space chân/space tr/ohorngrave i,/space cành/space lê/space tr/abreveacute ng/space/dcroat i/ecircumflexhookabove m/space m/ocircumflexdotbelow t/space vài/space bông/space hoa./space Thanh/space minh/space trong/space ti/ecircumflexacute t/space tháng/space ba,/space l/ecircumflextilde/space là/space t/ahookabove o/space m/ocircumflexdotbelow ,/space h/ocircumflexdotbelow i/space là/space/dcroat/adotbelow p/space Thanh./space Ga/circumflexcomb_gravecomb/acircumflexgrave n/space xa/space nô/space n/uhornacute c/space y/ecircumflexacute n/space anh,/space ch/idotbelow/space em/space s/abreveacute m/space s/uhornhookabove a/space b/ocircumflexdotbelow/space hành/space ch/ohorn i/space xuân./space D/acircumflexdotbelow p/space dìu/space tài/space t/uhornhookabove ,/space giai/space nhân,/space ng/uhorndotbelow a/space xe/space nh/uhorn/space n/uhorn/ohornacute c/space áo/space qu/acircumflexgrave n/space nh/uhorn/space nêm./space Ng/ocircumflexhookabove n/space ngang/space gò/space/dcroat/ocircumflexacute ng/space kéo/space lên,/space thoi/space vàng/space vó/space r/abreveacute c/space tro/space ti/ecircumflexgrave n/space gi/acircumflexacute y/space bay./space Tà/space tà/space bóng/space ng/ahookabove/space v/ecircumflexgrave/space tây,/space ch/idotbelow/space em/space th/ohorn/space th/acircumflexhookabove n/space dan/space tay/space ra/space v/ecircumflexgrave ./space B/uhorn/ohornacute c/space d/acircumflexgrave n/space theo/space ng/odotbelow n/space ti/ecircumflexhookabove u/space khê,/space l/acircumflexgrave n/space xem/space phong/space c/ahookabove nh/space có/space b/ecircumflexgrave/space thanh/space thanh./space Nao/space nao/space dòng/space n/uhorn/ohornacute c/space u/ocircumflexacute n/space quanh,/space d/idotbelow p/space c/acircumflexgrave u/space nho/space nh/ohookabove/space cu/ocircumflexacute i/space gh/ecircumflexgrave nh/space b/abreveacute c/space ngang./space Sè/space sè/space n/acircumflexacute m/space/dcroat/acircumflexacute t/space bên/space/dcroat àng,/space dàu/space dàu/space ng/odotbelow n/space c/ohookabove/space n/uhornhookabove a/space vàng/space n/uhornhookabove a/space xanh./space R/abrevegrave ng:/space Sao/space trong/space ti/ecircumflexacute t/space thanh/space minh,/space mà/space/dcroat ây/space h/uhorn/ohorn ng/space khói/space v/abreveacute ng/space tanh/space th/ecircumflexacute/space mà?/space Có/space ng/uhorn/ohorngrave i/space khách/space/ohornhookabove/space vi/ecircumflextilde n/space ph/uhorn/ohorn ng,/space xa/space nghe/space c/utilde ng/space n/uhornacute c/space ti/ecircumflexacute ng/space nàng/space tìm/space ch/ohorndotbelow t."
+"Tr/abreve m/space n/abreve m/space trong/space cõi/space ng/uhorn/ohorngrave i/space ta,/space ch/uhorntilde/space tài/space ch/uhorntilde/space m/ecircumflexdotbelow nh/space khéo/space là/space ghét/space nhau./space Tr/ahookabove i/space qua/space m/ocircumflexdotbelow t/space cu/ocircumflexdotbelow c/space b/ecircumflexhookabove/space dâu,/space nh/uhorntilde ng/space/dcroat i/ecircumflexgrave u/space trông/space th/acircumflexacute y/space mà/space/dcroat au/space/dcroat/ohornacute n/space lòng./space L/adotbelow/space gì/space b/ihookabove/space s/abreveacute c/space t/uhorn/space phong,/space tr/ohorngrave i/space xanh/space quen/space thói/space má/space h/ocircumflexgrave ng/space/dcroat ánh/space ghen./space C/ahookabove o/space th/ohorn m/space l/acircumflexgrave n/space gi/ohornhookabove/space tr/uhorn/ohornacute c/space/dcroat èn,/space phong/space Tình/space có/space l/udotbelow c/space còn/space truy/ecircumflexgrave n/space s/uhornhookabove/space xanh./space R/abrevegrave ng/space n/abreve m/space Gia/space T/itilde nh/space tri/ecircumflexgrave u/space Minh,/space b/ocircumflexacute n/space ph/uhorn/ohorn ng/space ph/abrevehookabove ng/space l/abrevedotbelow ng,/space hai/space kinh/space v/uhorntilde ng/space vàng./space Có/space nhà/space viên/space ngo/adotbelow i/space h/odotbelow/space V/uhorn/ohorn ng,/space gia/space t/uhorn/space ngh/itilde/space c/utilde ng/space th/uhorn/ohorngrave ng/space th/uhorn/ohorngrave ng/space b/uhorndotbelow c/space trung./space M/ocircumflexdotbelow t/space trai/space con/space th/uhornacute/space r/ocircumflexacute t/space lòng,/space v/uhorn/ohorn ng/space Quan/space là/space ch/uhorntilde ,/space n/ocircumflexacute i/space dòng/space nho/space gia./space/Dcroat/acircumflexgrave u/space lòng/space hai/space/ahookabove/space T/ocircumflexacute/space nga,/space Thúy/space Ki/ecircumflexgrave u/space là/space ch/idotbelow ,/space em/space là/space Thúy/space Vân./space Mai/space c/ocircumflexacute t/space cách,/space tuy/ecircumflexacute t/space tinh/space th/acircumflexgrave n,/space m/ocircumflexdotbelow t/space ng/uhorn/ohorngrave i/space m/ocircumflexdotbelow t/space v/ehookabove ,/space m/uhorn/ohorngrave i/space phân/space v/edotbelow n/space m/uhorn/ohorngrave i./space Vân/space xem/space trang/space tr/odotbelow ng/space khác/space v/ohorngrave i,/space khuôn/space tr/abreve ng/space/dcroat/acircumflexgrave y/space/dcroat/abrevedotbelow n,/space nét/space ngài/space n/ohornhookabove/space nang./space Hoa/space c/uhorn/ohorngrave i/space ng/odotbelow c/space th/ocircumflexacute t/space/dcroat oan/space trang,/space mây/space thua/space n/uhorn/ohornacute c/space tóc,/space tuy/ecircumflexacute t/space nh/uhorn/ohorngrave ng/space màu/space da./space Ki/ecircumflexgrave u/space càng/space s/abreveacute c/space s/ahookabove o,/space m/abrevedotbelow n/space mà,/space so/space b/ecircumflexgrave/space tài,/space s/abreveacute c,/space l/adotbelow i/space là/space ph/acircumflexgrave n/space h/ohorn n./space Làn/space thu/space th/uhookabove y,/space nét/space xuân/space s/ohorn n,/space hoa/space ghen/space thua/space th/abreveacute m,/space li/ecircumflextilde u/space h/ohorngrave n/space kém/space xanh./space M/ocircumflexdotbelow t,/space hai/space nghiêng/space n/uhorn/ohornacute c/space nghiêng/space thành,/space s/abreveacute c/space/dcroat ành/space/dcroat òi/space m/ocircumflexdotbelow t,/space tài/space/dcroat ành/space h/odotbelow a/space hai./space Thông/space minh/space v/ocircumflexacute n/space s/abrevetilde n/space t/uhorn/space tr/ohorngrave i,/space pha/space ngh/ecircumflexgrave/space thi/space h/odotbelow a,/space/dcroat/uhookabove/space mùi/space ca/space ngâm./space Cung/space th/uhorn/ohorn ng/space làu/space b/acircumflexdotbelow c/space ng/utilde/space âm,/space ngh/ecircumflexgrave/space riêng/space/abreve n/space/dcroat/uhornacute t/space H/ocircumflexgrave/space c/acircumflexgrave m/space m/ocircumflexdotbelow t/space tr/uhorn/ohorn ng./space Khúc/space nhà/space tay/space l/uhorndotbelow a/space nên/space ch/uhorn/ohorn ng,/space m/ocircumflexdotbelow t/space thiên/space b/adotbelow c/space m/ecircumflexdotbelow nh,/space l/adotbelow i/space càng/space não/space nhân./space Phong/space l/uhorn u/space r/acircumflexacute t/space m/uhorndotbelow c/space h/ocircumflexgrave ng/space qu/acircumflexgrave n,/space xuân/space xanh/space s/acircumflexacute p/space x/ihookabove/space t/ohornacute i/space tu/acircumflexgrave n/space c/acircumflexdotbelow p/space kê./space Êm/space/dcroat/ecircumflexgrave m/space tr/uhorn/ohornacute ng/space r/uhookabove/space màn/space che,/space t/uhorn/ohorngrave ng/space/dcroat ông/space ong/space b/uhorn/ohornacute m/space/dcroat i/space v/ecircumflexgrave/space m/abrevedotbelow c/space ai./space Ngày/space xuân/space con/space én/space/dcroat/uhorn a/space thoi,/space thi/ecircumflexgrave u/space quang/space chín/space ch/udotbelow c/space/dcroat ã/space ngoài/space sáu/space m/uhorn/ohorn i./space C/ohookabove/space non/space xanh/space t/acircumflexdotbelow n/space chân/space tr/ohorngrave i,/space cành/space lê/space tr/abreveacute ng/space/dcroat i/ecircumflexhookabove m/space m/ocircumflexdotbelow t/space vài/space bông/space hoa./space Thanh/space minh/space trong/space ti/ecircumflexacute t/space tháng/space ba,/space l/ecircumflextilde/space là/space t/ahookabove o/space m/ocircumflexdotbelow ,/space h/ocircumflexdotbelow i/space là/space/dcroat/adotbelow p/space Thanh./space Ga/circumflexcomb_gravecomb/acircumflexgrave n/space xa/space nô/space n/uhornacute c/space y/ecircumflexacute n/space anh,/space ch/idotbelow/space em/space s/abreveacute m/space s/uhornhookabove a/space b/ocircumflexdotbelow/space hành/space ch/ohorn i/space xuân./space D/acircumflexdotbelow p/space dìu/space tài/space t/uhornhookabove ,/space giai/space nhân,/space ng/uhorndotbelow a/space xe/space nh/uhorn/space n/uhorn/ohornacute c/space áo/space qu/acircumflexgrave n/space nh/uhorn/space nêm./space Ng/ocircumflexhookabove n/space ngang/space gò/space/dcroat/ocircumflexacute ng/space kéo/space lên,/space thoi/space vàng/space vó/space r/abreveacute c/space tro/space ti/ecircumflexgrave n/space gi/acircumflexacute y/space bay./space Tà/space tà/space bóng/space ng/ahookabove/space v/ecircumflexgrave/space tây,/space ch/idotbelow/space em/space th/ohorn/space th/acircumflexhookabove n/space dan/space tay/space ra/space v/ecircumflexgrave ./space B/uhorn/ohornacute c/space d/acircumflexgrave n/space theo/space ng/odotbelow n/space ti/ecircumflexhookabove u/space khê,/space l/acircumflexgrave n/space xem/space phong/space c/ahookabove nh/space có/space b/ecircumflexgrave/space thanh/space thanh./space Nao/space nao/space dòng/space n/uhorn/ohornacute c/space u/ocircumflexacute n/space quanh,/space d/idotbelow p/space c/acircumflexgrave u/space nho/space nh/ohookabove/space cu/ocircumflexacute i/space gh/ecircumflexgrave nh/space b/abreveacute c/space ngang./space Sè/space sè/space n/acircumflexacute m/space/dcroat/acircumflexacute t/space bên/space/dcroat àng,/space dàu/space dàu/space ng/odotbelow n/space c/ohookabove/space n/uhornhookabove a/space vàng/space n/uhornhookabove a/space xanh./space R/abrevegrave ng:/space Sao/space trong/space ti/ecircumflexacute t/space thanh/space minh,/space mà/space/dcroat ây/space h/uhorn/ohorn ng/space khói/space v/abreveacute ng/space tanh/space th/ecircumflexacute/space mà?/space Có/space ng/uhorn/ohorngrave i/space khách/space/ohornhookabove/space vi/ecircumflextilde n/space ph/uhorn/ohorn ng,/space xa/space nghe/space c/utilde ng/space n/uhornacute c/space ti/ecircumflexacute ng/space nàng/space tìm/space ch/ohorndotbelow t.",
+"/commaturnedabovecomb/commaaccentcomb",
+"/dieresiscomb/dotaccentcomb/gravecomb/acutecomb/hungarumlautcomb/caroncomb.alt/circumflexcomb/caroncomb/brevecomb/ringcomb/tildecomb/macroncomb/hookabovecomb/commaturnedabovecomb g/gcommaaccent/commaaccentcomb/Gcommaaccent/Kcommaaccent/Lcommaaccent/Ncommaaccent/Rcommaaccent/Scommaaccent/Tcommaaccent/kcommaaccent/lcommaaccent/ncommaaccent/rcommaaccent/scommaaccent/tcommaaccent/commaaccentcomb/horncomb/dotbelowcomb",
+";,/comma.tf/quotesinglbase",
+"/brevecomb/brevecomb-cy/Ii-cy/Iishort-cy/Ushort-cy/iishort-cy/ushort-cy/iishort-cy.loclBGR",
+"/brevecomb-cy/Iishort-cy/Ushort-cy/iishort-cy/ushort-cy/iishort-cy.loclBGR"
 );
 classes = (
 {
@@ -136,12 +141,6 @@ wght = {
 {
 name = "Variable Font Origin";
 value = "5AAFD18E-AEF5-43C3-A12E-1BAE6B19067F";
-},
-{
-name = unicodeRanges;
-value = (
-0
-);
 }
 );
 date = "2021-04-04 23:47:48 +0000";
@@ -19270,7 +19269,7 @@ unicode = 011F;
 {
 color = 4;
 glyphname = gcommaaccent;
-lastChange = "2021-05-28 01:00:07 +0000";
+lastChange = "2021-06-18 00:46:44 +0000";
 layers = (
 {
 background = {
@@ -19290,7 +19289,7 @@ name = g;
 },
 {
 name = commaturnedabovecomb;
-transform = "{1, 0, 0, 1, 109, 0}";
+transform = "{1, 0, 0, 1, 126, 0}";
 }
 );
 layerId = "8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC";
@@ -19316,7 +19315,7 @@ name = g;
 },
 {
 name = commaturnedabovecomb;
-transform = "{1, 0, 0, 1, 138, 0}";
+transform = "{1, 0, 0, 1, 158, 0}";
 }
 );
 layerId = "5AAFD18E-AEF5-43C3-A12E-1BAE6B19067F";
@@ -37663,7 +37662,7 @@ unicode = 0418;
 {
 color = 4;
 glyphname = "Iishort-cy";
-lastChange = "2021-06-03 20:00:13 +0000";
+lastChange = "2021-06-18 00:48:53 +0000";
 layers = (
 {
 background = {
@@ -69505,8 +69504,9 @@ width = 505;
 );
 },
 {
+color = 9;
 glyphname = dieresiscomb;
-lastChange = "2021-05-27 16:58:11 +0000";
+lastChange = "2021-06-18 00:38:13 +0000";
 layers = (
 {
 anchors = (
@@ -69708,8 +69708,9 @@ width = 124;
 unicode = 0308;
 },
 {
+color = 9;
 glyphname = dotaccentcomb;
-lastChange = "2021-05-27 23:14:40 +0000";
+lastChange = "2021-06-18 00:38:21 +0000";
 layers = (
 {
 anchors = (
@@ -69860,8 +69861,9 @@ width = 44;
 unicode = 0307;
 },
 {
+color = 9;
 glyphname = gravecomb;
-lastChange = "2021-05-27 16:57:51 +0000";
+lastChange = "2021-06-18 00:36:54 +0000";
 layers = (
 {
 anchors = (
@@ -69988,10 +69990,12 @@ width = 88;
 }
 );
 note = gravecomb;
+unicode = 0300;
 },
 {
+color = 9;
 glyphname = acutecomb;
-lastChange = "2021-06-03 11:48:56 +0000";
+lastChange = "2021-06-18 00:36:17 +0000";
 layers = (
 {
 anchors = (
@@ -70109,10 +70113,12 @@ width = 88;
 }
 );
 note = acutecomb;
+unicode = 0301;
 },
 {
+color = 9;
 glyphname = hungarumlautcomb;
-lastChange = "2021-05-27 17:21:42 +0000";
+lastChange = "2021-06-18 00:38:28 +0000";
 layers = (
 {
 anchors = (
@@ -70372,8 +70378,9 @@ width = 36;
 note = acutecomb;
 },
 {
+color = 9;
 glyphname = circumflexcomb;
-lastChange = "2021-06-03 11:50:18 +0000";
+lastChange = "2021-06-18 00:38:46 +0000";
 layers = (
 {
 anchors = (
@@ -70502,10 +70509,12 @@ width = 215;
 }
 );
 note = circumflexcomb;
+unicode = 0302;
 },
 {
+color = 9;
 glyphname = caroncomb;
-lastChange = "2021-05-27 16:46:01 +0000";
+lastChange = "2021-06-18 00:38:02 +0000";
 layers = (
 {
 anchors = (
@@ -70629,8 +70638,9 @@ width = 213;
 unicode = 030C;
 },
 {
+color = 9;
 glyphname = brevecomb;
-lastChange = "2021-05-27 23:11:30 +0000";
+lastChange = "2021-06-18 00:38:59 +0000";
 layers = (
 {
 anchors = (
@@ -70792,10 +70802,12 @@ width = 197;
 }
 );
 note = brevecomb;
+unicode = 0306;
 },
 {
+color = 9;
 glyphname = ringcomb;
-lastChange = "2021-05-27 19:54:35 +0000";
+lastChange = "2021-06-18 00:39:08 +0000";
 layers = (
 {
 anchors = (
@@ -71003,9 +71015,9 @@ width = 183;
 unicode = 030A;
 },
 {
-color = 4;
+color = 9;
 glyphname = tildecomb;
-lastChange = "2021-06-03 19:53:31 +0000";
+lastChange = "2021-06-18 00:37:31 +0000";
 layers = (
 {
 anchors = (
@@ -71264,10 +71276,12 @@ width = 200;
 }
 );
 note = tildecomb;
+unicode = 0303;
 },
 {
+color = 9;
 glyphname = macroncomb;
-lastChange = "2021-05-27 19:56:50 +0000";
+lastChange = "2021-06-18 00:39:27 +0000";
 layers = (
 {
 anchors = (
@@ -71365,8 +71379,9 @@ width = 191;
 unicode = 0304;
 },
 {
+color = 9;
 glyphname = hookabovecomb;
-lastChange = "2021-06-03 11:33:12 +0000";
+lastChange = "2021-06-18 00:37:25 +0000";
 layers = (
 {
 anchors = (
@@ -71579,20 +71594,22 @@ width = 122;
 }
 );
 note = hookabovecomb;
+unicode = 0309;
 },
 {
+color = 9;
 glyphname = commaturnedabovecomb;
-lastChange = "2021-05-27 23:01:38 +0000";
+lastChange = "2021-06-18 00:46:47 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{87, 495}";
+position = "{70, 495}";
 },
 {
 name = top;
-position = "{87, 645}";
+position = "{67, 645}";
 }
 );
 background = {
@@ -71606,68 +71623,112 @@ name = top;
 position = "{87, 645}";
 }
 );
-components = (
+paths = (
 {
-name = commaaccent;
-transform = "{-1, 0, 0, -1, 174, 396}";
+closed = 1;
+nodes = (
+"96 728.872 LINE",
+"55 689.005 OFFCURVE",
+"10 623.46 OFFCURVE",
+"10 580.89 CURVE SMOOTH",
+"10 550.482 OFFCURVE",
+"40 528.184 OFFCURVE",
+"85 528.184 CURVE SMOOTH",
+"130 528.184 OFFCURVE",
+"164 550.482 OFFCURVE",
+"164 576.835 CURVE SMOOTH",
+"164 607.919 OFFCURVE",
+"120 611.297 OFFCURVE",
+"120 642.38 CURVE SMOOTH",
+"120 664.003 OFFCURVE",
+"138 692.384 OFFCURVE",
+"163 728.872 CURVE"
+);
 }
 );
 };
 components = (
 {
-name = commaaccent;
-transform = "{-1, 0, 0, -1, 174, 480}";
+name = commaaccentcomb;
+transform = "{-1, 0, 0, -1, 131, 507}";
 }
 );
 layerId = "8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC";
-width = 174;
+width = 131;
 },
 {
 anchors = (
 {
 name = _top;
-position = "{38, 495}";
+position = "{18, 495}";
 },
 {
 name = top;
-position = "{38, 646}";
+position = "{23, 645}";
 }
 );
 background = {
-anchors = (
+paths = (
 {
-name = _top;
-position = "{38, 495}";
-},
-{
-name = top;
-position = "{38, 646}";
-}
+closed = 1;
+nodes = (
+"37 672 LINE",
+"16 639 OFFCURVE",
+"-6 597 OFFCURVE",
+"-6 564 CURVE SMOOTH",
+"-6 548 OFFCURVE",
+"2 538 OFFCURVE",
+"17 538 CURVE SMOOTH",
+"30 538 OFFCURVE",
+"37 547 OFFCURVE",
+"37 558 CURVE SMOOTH",
+"37 578 OFFCURVE",
+"23 576 OFFCURVE",
+"23 601 CURVE SMOOTH",
+"23 622 OFFCURVE",
+"40 651 OFFCURVE",
+"51 672 CURVE"
 );
-components = (
-{
-alignment = -1;
-name = commaaccent;
-transform = "{-1, 0, 0, -1, 76, 396}";
 }
 );
 };
 components = (
 {
-alignment = -1;
-name = commaaccent;
-transform = "{-1, 0, 0, -1, 76, 423}";
+name = commaaccentcomb;
+transform = "{-1, 0, 0, -1, 47, 503}";
+}
+);
+hints = (
+{
+horizontal = 1;
+place = "{425.912, 21}";
+target = up;
+type = BottomGhost;
+},
+{
+place = "{6.118, -23.294}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{668.211, -128.818}";
+type = Stem;
+},
+{
+place = "{56.794, -40.376}";
+type = Stem;
 }
 );
 layerId = "5AAFD18E-AEF5-43C3-A12E-1BAE6B19067F";
-width = 76;
+width = 47;
 }
 );
 unicode = 0312;
 },
 {
+color = 9;
 glyphname = horncomb;
-lastChange = "2021-05-27 16:47:48 +0000";
+lastChange = "2021-06-18 00:39:51 +0000";
 layers = (
 {
 anchors = (
@@ -71802,10 +71863,12 @@ width = 101;
 }
 );
 note = horncomb;
+unicode = 031B;
 },
 {
+color = 9;
 glyphname = dotbelowcomb;
-lastChange = "2021-05-26 04:43:54 +0000";
+lastChange = "2021-06-18 00:36:38 +0000";
 layers = (
 {
 anchors = (
@@ -71923,68 +71986,12 @@ width = 65;
 }
 );
 note = dotbelowcomb;
+unicode = 0323;
 },
 {
-glyphname = commaaccent;
-lastChange = "2021-05-26 04:14:52 +0000";
-layers = (
-{
-background = {
-components = (
-{
-name = comma;
-transform = "{1, 0, 0, 0.67572, -40, -134}";
-}
-);
-};
-components = (
-{
-name = comma;
-transform = "{1, 0, 0, 0.67572, -40, -134}";
-}
-);
-layerId = "8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC";
-width = 174;
-},
-{
-background = {
-components = (
-{
-alignment = -1;
-name = comma;
-transform = "{1, 0, 0, 0.99046, -40, -151}";
-}
-);
-};
-components = (
-{
-alignment = -1;
-name = comma;
-transform = "{1, 0, 0, 0.99046, -40, -151}";
-}
-);
-hints = (
-{
-horizontal = 1;
-place = "{-2.912, 21}";
-target = up;
-type = BottomGhost;
-},
-{
-place = "{69.882, 23.294}";
-type = Stem;
-}
-);
-layerId = "5AAFD18E-AEF5-43C3-A12E-1BAE6B19067F";
-width = 76;
-}
-);
-note = commaaccent;
-unicode = F6C3;
-},
-{
+color = 9;
 glyphname = commaaccentcomb;
-lastChange = "2021-06-09 16:45:44 +0000";
+lastChange = "2021-06-18 00:46:24 +0000";
 layers = (
 {
 anchors = (
@@ -72085,22 +72092,22 @@ paths = (
 {
 closed = 1;
 nodes = (
-"62 -206 LINE",
-"93 -174 OFFCURVE",
-"131 -117 OFFCURVE",
-"131 -86 CURVE SMOOTH",
-"131 -54 OFFCURVE",
-"104 -31 OFFCURVE",
-"65 -31 CURVE SMOOTH",
-"28 -31 OFFCURVE",
-"2 -55 OFFCURVE",
-"2 -79 CURVE SMOOTH",
-"2 -110 OFFCURVE",
-"35 -116 OFFCURVE",
-"35 -132 CURVE SMOOTH",
-"35 -148 OFFCURVE",
-"22 -174 OFFCURVE",
-"0 -206 CURVE"
+"62 -211 LINE",
+"93 -179 OFFCURVE",
+"131 -122 OFFCURVE",
+"131 -91 CURVE SMOOTH",
+"131 -59 OFFCURVE",
+"104 -36 OFFCURVE",
+"65 -36 CURVE SMOOTH",
+"28 -36 OFFCURVE",
+"2 -60 OFFCURVE",
+"2 -84 CURVE SMOOTH",
+"2 -115 OFFCURVE",
+"35 -121 OFFCURVE",
+"35 -137 CURVE SMOOTH",
+"35 -153 OFFCURVE",
+"22 -179 OFFCURVE",
+"0 -211 CURVE"
 );
 }
 );
@@ -72247,22 +72254,22 @@ paths = (
 {
 closed = 1;
 nodes = (
-"13 -133 LINE",
-"30 -108 OFFCURVE",
-"47 -72 OFFCURVE",
-"47 -51 CURVE SMOOTH",
-"47 -40 OFFCURVE",
-"39 -29 OFFCURVE",
-"27 -29 CURVE SMOOTH",
-"18 -29 OFFCURVE",
-"9 -37 OFFCURVE",
-"9 -46 CURVE SMOOTH",
-"9 -62 OFFCURVE",
-"24 -63 OFFCURVE",
-"24 -75 CURVE SMOOTH",
-"24 -90 OFFCURVE",
-"12 -112 OFFCURVE",
-"0 -133 CURVE"
+"13 -143 LINE",
+"30 -118 OFFCURVE",
+"47 -82 OFFCURVE",
+"47 -61 CURVE SMOOTH",
+"47 -50 OFFCURVE",
+"39 -39 OFFCURVE",
+"27 -39 CURVE SMOOTH",
+"18 -39 OFFCURVE",
+"9 -47 OFFCURVE",
+"9 -56 CURVE SMOOTH",
+"9 -72 OFFCURVE",
+"24 -73 OFFCURVE",
+"24 -85 CURVE SMOOTH",
+"24 -100 OFFCURVE",
+"12 -122 OFFCURVE",
+"0 -143 CURVE"
 );
 }
 );
@@ -72272,8 +72279,9 @@ width = 47;
 unicode = 0326;
 },
 {
+color = 9;
 glyphname = cedillacomb;
-lastChange = "2021-06-09 15:51:02 +0000";
+lastChange = "2021-06-18 00:48:01 +0000";
 layers = (
 {
 anchors = (
@@ -72647,8 +72655,9 @@ width = 102;
 unicode = 0327;
 },
 {
+color = 9;
 glyphname = ogonekcomb;
-lastChange = "2021-06-09 22:16:37 +0000";
+lastChange = "2021-06-18 00:48:10 +0000";
 layers = (
 {
 anchors = (
@@ -72886,9 +72895,9 @@ width = 125;
 unicode = 0328;
 },
 {
-color = 4;
+color = 7;
 glyphname = dotaccent;
-lastChange = "2021-05-26 22:48:51 +0000";
+lastChange = "2021-06-18 00:33:28 +0000";
 layers = (
 {
 background = {
@@ -72966,9 +72975,9 @@ note = dotaccent;
 unicode = 02D9;
 },
 {
-color = 4;
+color = 7;
 glyphname = dieresis;
-lastChange = "2021-05-26 22:48:51 +0000";
+lastChange = "2021-06-18 00:30:33 +0000";
 layers = (
 {
 background = {
@@ -73118,9 +73127,9 @@ note = dieresis;
 unicode = 00A8;
 },
 {
-color = 4;
+color = 7;
 glyphname = grave;
-lastChange = "2021-05-26 22:48:51 +0000";
+lastChange = "2021-06-18 00:30:23 +0000";
 layers = (
 {
 background = {
@@ -73182,9 +73191,9 @@ note = grave;
 unicode = 0060;
 },
 {
-color = 4;
+color = 7;
 glyphname = acute;
-lastChange = "2021-05-26 22:48:51 +0000";
+lastChange = "2021-06-18 00:30:23 +0000";
 layers = (
 {
 background = {
@@ -73246,9 +73255,9 @@ note = acute;
 unicode = 00B4;
 },
 {
-color = 4;
+color = 7;
 glyphname = hungarumlaut;
-lastChange = "2021-05-27 17:20:42 +0000";
+lastChange = "2021-06-18 00:33:37 +0000";
 layers = (
 {
 background = {
@@ -73351,9 +73360,9 @@ note = hungarumlaut;
 unicode = 02DD;
 },
 {
-color = 4;
+color = 7;
 glyphname = circumflex;
-lastChange = "2021-05-26 22:48:51 +0000";
+lastChange = "2021-06-18 00:30:44 +0000";
 layers = (
 {
 background = {
@@ -73433,9 +73442,9 @@ note = circumflex;
 unicode = 02C6;
 },
 {
-color = 4;
+color = 7;
 glyphname = caron;
-lastChange = "2021-05-26 22:48:51 +0000";
+lastChange = "2021-06-18 00:33:47 +0000";
 layers = (
 {
 background = {
@@ -73515,9 +73524,9 @@ note = caron;
 unicode = 02C7;
 },
 {
-color = 4;
+color = 7;
 glyphname = breve;
-lastChange = "2021-05-26 22:48:51 +0000";
+lastChange = "2021-06-18 00:31:15 +0000";
 layers = (
 {
 background = {
@@ -73603,9 +73612,9 @@ note = breve;
 unicode = 02D8;
 },
 {
-color = 4;
+color = 7;
 glyphname = ring;
-lastChange = "2021-05-26 22:48:51 +0000";
+lastChange = "2021-06-18 00:31:38 +0000";
 layers = (
 {
 background = {
@@ -73726,9 +73735,9 @@ note = ring;
 unicode = 02DA;
 },
 {
-color = 4;
+color = 7;
 glyphname = tilde;
-lastChange = "2021-05-26 22:48:51 +0000";
+lastChange = "2021-06-18 00:30:53 +0000";
 layers = (
 {
 background = {
@@ -73843,9 +73852,9 @@ note = tilde;
 unicode = 02DC;
 },
 {
-color = 4;
+color = 7;
 glyphname = macron;
-lastChange = "2021-05-26 22:48:51 +0000";
+lastChange = "2021-06-18 00:31:06 +0000";
 layers = (
 {
 background = {
@@ -73916,9 +73925,9 @@ note = macron;
 unicode = 00AF;
 },
 {
-color = 4;
+color = 7;
 glyphname = cedilla;
-lastChange = "2021-06-09 15:13:04 +0000";
+lastChange = "2021-06-18 00:33:04 +0000";
 layers = (
 {
 background = {
@@ -74035,9 +74044,9 @@ note = cedilla;
 unicode = 00B8;
 },
 {
-color = 4;
+color = 7;
 glyphname = ogonek;
-lastChange = "2021-05-26 22:48:51 +0000";
+lastChange = "2021-06-18 00:33:13 +0000";
 layers = (
 {
 background = {
@@ -78321,5 +78330,5 @@ tH = "90";
 };
 };
 versionMajor = 1;
-versionMinor = 12;
+versionMinor = 13;
 }
