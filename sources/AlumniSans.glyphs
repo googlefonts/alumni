@@ -15,7 +15,7 @@ DisplayStrings = (
 "/ii-cy/iishort-cy/iishort-cy.loclBGR",
 "/ii-cy/iishort-cy/iishort-cy.loclBGR",
 "",
-"UU/Uhorn T/space OO/horncomb.case O/Ohorn T",
+"/commaturnedabovecomb ;/comma.tf/quotesinglbase/commaaccentcomb",
 "/circumflexcomb_acutecomb",
 "/circumflexcomb_tildecomb",
 "",
@@ -47,14 +47,14 @@ DisplayStrings = (
 "ò",
 "Á/Abreve/Abreveacute/Abrevedotbelow/Abrevegrave/Abrevehookabove/Abrevetilde Â/Acircumflexacute/Acircumflexdotbelow/Acircumflexgrave/Acircumflexhookabove/Acircumflextilde/Adotbelow À/Ahookabove Ã/Dcroat ÉÊ/Ecircumflexacute/Ecircumflexdotbelow/Ecircumflexgrave/Ecircumflexhookabove/Ecircumflextilde/Edotbelow È/Ehookabove/Etilde Í/Idotbelow Ì/Ihookabove/Itilde ÓÔ/Ocircumflexacute/Ocircumflexdotbelow/Ocircumflexgrave/Ocircumflexhookabove/Ocircumflextilde/Odotbelow Ò/Ohookabove/Ohorn/Ohornacute/Ohorndotbelow/Ohorngrave/Ohornhookabove O/Ohorn/Ohorntilde ÕÚ/Udotbelow Ù/Uhookabove/Uhorn/Uhornacute/Uhorndotbelow/Uhorngrave/Uhornhookabove/Uhorntilde/Utilde Ý/Ydotbelow/Ygrave/Yhookabove/Ytilde",
 "Á/Abreve/Abreveacute/Abrevedotbelow/Abrevegrave/Abrevehookabove/Abrevetilde Â/Acircumflexacute/Acircumflexdotbelow/Acircumflexgrave/Acircumflexhookabove/Acircumflextilde/Adotbelow À/Ahookabove Ã/Dcroat ÉÊ/Ecircumflexacute/Ecircumflexdotbelow/Ecircumflexgrave/Ecircumflexhookabove/Ecircumflextilde/Edotbelow È/Ehookabove/Etilde Í/Idotbelow Ì/Ihookabove/Itilde ÓÔ/Ocircumflexacute/Ocircumflexdotbelow/Ocircumflexgrave/Ocircumflexhookabove/Ocircumflextilde/Odotbelow Ò/Ohookabove/Ohorn/Ohornacute/Ohorndotbelow/Ohorngrave/Ohornhookabove/Ohorntilde ÕÚ/Udotbelow Ù/Uhookabove/Uhorn/Uhornacute/Uhorndotbelow/Uhorngrave/Uhornhookabove/Uhorntilde/Utilde Ý/Ydotbelow/Ygrave/Yhookabove/Ytilde",
-"/brevecomb-cy/ushort-cy",
+"/ushort-cy",
 "Ï/Yi-cy",
 "/Ka-cy/Kje-cy",
 "/Ge-cy/Gje-cy",
 "/Yi-cy",
-"/brevecomb-cy/iishort-cy.loclBGR",
-"/brevecomb-cy/Iishort-cy",
-"/brevecomb-cy/Iishort-cy",
+"/iishort-cy.loclBGR",
+"/Iishort-cy",
+"/Iishort-cy",
 "/ii-cy.loclBGR 5",
 "/circumflexcomb_hookabovecomb.case/Acircumflexhookabove",
 "/brevecomb_acutecomb.case/ohorn/ohorn/ohorndotbelow",
@@ -66,8 +66,8 @@ DisplayStrings = (
 "/commaturnedabovecomb/commaaccentcomb",
 "/dieresiscomb/dotaccentcomb/gravecomb/acutecomb/hungarumlautcomb/caroncomb.alt/circumflexcomb/caroncomb/brevecomb/ringcomb/tildecomb/macroncomb/hookabovecomb/commaturnedabovecomb g/gcommaaccent/commaaccentcomb/Gcommaaccent/Kcommaaccent/Lcommaaccent/Ncommaaccent/Rcommaaccent/Scommaaccent/Tcommaaccent/kcommaaccent/lcommaaccent/ncommaaccent/rcommaaccent/scommaaccent/tcommaaccent/commaaccentcomb/horncomb/dotbelowcomb",
 ";,/comma.tf/quotesinglbase",
-"/brevecomb/brevecomb-cy/Ii-cy/Iishort-cy/Ushort-cy/iishort-cy/ushort-cy/iishort-cy.loclBGR",
-"/brevecomb-cy/Iishort-cy/Ushort-cy/iishort-cy/ushort-cy/iishort-cy.loclBGR"
+"/brevecomb/Ii-cy/Iishort-cy/Ushort-cy/iishort-cy/ushort-cy/iishort-cy.loclBGR",
+"/Iishort-cy/Ushort-cy/iishort-cy/ushort-cy/iishort-cy.loclBGR"
 );
 classes = (
 {
@@ -37662,7 +37662,7 @@ unicode = 0418;
 {
 color = 4;
 glyphname = "Iishort-cy";
-lastChange = "2021-06-18 00:48:53 +0000";
+lastChange = "2021-06-18 00:53:53 +0000";
 layers = (
 {
 background = {
@@ -37681,8 +37681,8 @@ components = (
 name = "Ii-cy";
 },
 {
-name = "brevecomb-cy";
-transform = "{1, 0, 0, 1, 57, 96}";
+name = brevecomb.case;
+transform = "{1, 0, 0, 1, 75, 0}";
 }
 );
 layerId = "8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC";
@@ -37705,8 +37705,8 @@ components = (
 name = "Ii-cy";
 },
 {
-name = "brevecomb-cy";
-transform = "{1, 0, 0, 1, 90, 96}";
+name = brevecomb.case;
+transform = "{1, 0, 0, 1, 100, 0}";
 }
 );
 hints = (
@@ -38941,7 +38941,7 @@ unicode = 0423;
 },
 {
 glyphname = "Ushort-cy";
-lastChange = "2021-06-03 20:00:54 +0000";
+lastChange = "2021-06-18 00:54:05 +0000";
 layers = (
 {
 background = {
@@ -38960,8 +38960,8 @@ components = (
 name = "U-cy";
 },
 {
-name = "brevecomb-cy";
-transform = "{1, 0, 0, 1, 54, 96}";
+name = brevecomb.case;
+transform = "{1, 0, 0, 1, 72, 0}";
 }
 );
 layerId = "8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC";
@@ -38984,8 +38984,8 @@ components = (
 name = "U-cy";
 },
 {
-name = "brevecomb-cy";
-transform = "{1, 0, 0, 1, 45, 96}";
+name = brevecomb.case;
+transform = "{1, 0, 0, 1, 55, 0}";
 }
 );
 hints = (
@@ -45001,7 +45001,7 @@ unicode = 0438;
 {
 color = 4;
 glyphname = "iishort-cy";
-lastChange = "2021-06-03 20:00:54 +0000";
+lastChange = "2021-06-18 00:52:36 +0000";
 layers = (
 {
 background = {
@@ -45020,8 +45020,8 @@ components = (
 name = "ii-cy";
 },
 {
-name = "brevecomb-cy";
-transform = "{1, 0, 0, 1, 54, 0}";
+name = brevecomb;
+transform = "{1, 0, 0, 1, 54, -6}";
 }
 );
 layerId = "8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC";
@@ -45044,7 +45044,7 @@ components = (
 name = "ii-cy";
 },
 {
-name = "brevecomb-cy";
+name = brevecomb;
 transform = "{1, 0, 0, 1, 76, 0}";
 }
 );
@@ -46360,7 +46360,7 @@ unicode = 0443;
 },
 {
 glyphname = "ushort-cy";
-lastChange = "2021-06-03 20:00:54 +0000";
+lastChange = "2021-06-18 00:54:27 +0000";
 layers = (
 {
 background = {
@@ -46379,8 +46379,8 @@ components = (
 name = "u-cy";
 },
 {
-name = "brevecomb-cy";
-transform = "{1, 0, 0, 1, 44, 0}";
+name = brevecomb;
+transform = "{1, 0, 0, 1, 44, -6}";
 }
 );
 layerId = "8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC";
@@ -46402,7 +46402,7 @@ components = (
 name = "u-cy";
 },
 {
-name = "brevecomb-cy";
+name = brevecomb;
 transform = "{1, 0, 0, 1, 49, 0}";
 }
 );
@@ -50732,7 +50732,7 @@ width = 350;
 },
 {
 glyphname = "iishort-cy.loclBGR";
-lastChange = "2021-06-03 20:02:20 +0000";
+lastChange = "2021-06-18 00:54:33 +0000";
 layers = (
 {
 background = {
@@ -50747,8 +50747,8 @@ components = (
 name = "ii-cy.loclBGR";
 },
 {
-name = "brevecomb-cy";
-transform = "{1, 0, 0, 1, 54, 0}";
+name = brevecomb;
+transform = "{1, 0, 0, 1, 54, -6}";
 }
 );
 layerId = "8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC";
@@ -50767,7 +50767,7 @@ components = (
 name = "ii-cy.loclBGR";
 },
 {
-name = "brevecomb-cy";
+name = brevecomb;
 transform = "{1, 0, 0, 1, 76, 0}";
 }
 );
@@ -75746,42 +75746,6 @@ width = 101;
 }
 );
 note = horncomb;
-},
-{
-glyphname = "brevecomb-cy";
-lastChange = "2021-06-03 20:00:15 +0000";
-layers = (
-{
-anchors = (
-{
-name = _top;
-position = "{143, 495}";
-}
-);
-components = (
-{
-name = brevecomb;
-}
-);
-layerId = "8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC";
-width = 285;
-},
-{
-anchors = (
-{
-name = _top;
-position = "{99, 495}";
-}
-);
-components = (
-{
-name = brevecomb;
-}
-);
-layerId = "5AAFD18E-AEF5-43C3-A12E-1BAE6B19067F";
-width = 197;
-}
-);
 },
 {
 color = 0;
