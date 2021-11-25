@@ -75,7 +75,8 @@ DisplayStrings = (
 "paral/periodcentered.loclCAT lel",
 "PARAL/periodcentered.loclCAT.case LEL",
 "/seven.tf",
-"/Uhorn/Ohorn/space d/ohornhookabove/space/uhorn/ohorn ng/space/dcroat/uhornacute t/space/Dcroat/Uhornacute T/space T/ocircumflexacute t"
+"/Uhorn/Ohorn/space d/ohornhookabove/space/uhorn/ohorn ng/space/dcroat/uhornacute t/space/Dcroat/Uhornacute T/space T/ocircumflexacute t",
+"/odieresismacron/odotaccentmacron/tildecomb/otildemacron"
 );
 classes = (
 {
@@ -21498,7 +21499,7 @@ unicode = 00F5;
 {
 color = 9;
 glyphname = otildemacron;
-lastChange = "2021-11-23 13:47:11 +0000";
+lastChange = "2021-11-25 08:45:52 +0000";
 layers = (
 {
 components = (
@@ -21511,7 +21512,7 @@ transform = "{1, 0, 0, 1, 80, 0}";
 },
 {
 name = macroncomb;
-transform = "{1, 0, 0, 1, 101, 95}";
+transform = "{1, 0, 0, 1, 91, 70}";
 }
 );
 layerId = "D84909E6-9227-4984-810E-91F1FC034344";
@@ -21528,7 +21529,7 @@ transform = "{1, 0, 0, 1, 66, 0}";
 },
 {
 name = macroncomb;
-transform = "{1, 0, 0, 1, 95, 145}";
+transform = "{1, 0, 0, 1, 97, 131}";
 }
 );
 layerId = "8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC";
@@ -62595,7 +62596,7 @@ unicode = 030A;
 {
 color = 9;
 glyphname = tildecomb;
-lastChange = "2021-11-25 08:16:03 +0000";
+lastChange = "2021-11-25 08:45:52 +0000";
 layers = (
 {
 anchors = (
@@ -62609,7 +62610,7 @@ position = "{177, 495}";
 },
 {
 name = top;
-position = "{183, 640}";
+position = "{185, 626}";
 }
 );
 background = {
@@ -62705,7 +62706,7 @@ position = "{136, 495}";
 },
 {
 name = top;
-position = "{143, 590}";
+position = "{133, 565}";
 }
 );
 background = {
