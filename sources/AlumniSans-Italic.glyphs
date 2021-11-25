@@ -71,7 +71,9 @@ DisplayStrings = (
 "/sacute",
 "/zero.tf",
 "/nine.lf",
-"/eight.lf"
+"/eight.lf",
+"paral/periodcentered.loclCAT lel",
+"PARAL/periodcentered.loclCAT.case LEL"
 );
 classes = (
 {
@@ -49024,18 +49026,45 @@ unicode = 005C;
 },
 {
 color = 9;
-glyphname = periodcentered.loclCAT;
-lastChange = "2021-11-25 08:01:17 +0000";
+glyphname = periodcentered.loclCAT.case;
+lastChange = "2021-11-25 08:22:05 +0000";
 layers = (
 {
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, 0, 240}";
+transform = "{1, 0, 0, 1, -40, 240}";
 }
 );
 layerId = "D84909E6-9227-4984-810E-91F1FC034344";
-width = 146;
+width = 26;
+},
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, -50, 200}";
+}
+);
+layerId = "8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC";
+width = 144;
+}
+);
+},
+{
+color = 9;
+glyphname = periodcentered.loclCAT;
+lastChange = "2021-11-25 08:20:06 +0000";
+layers = (
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, -10, 240}";
+}
+);
+layerId = "D84909E6-9227-4984-810E-91F1FC034344";
+width = 56;
 },
 {
 components = (
@@ -49045,7 +49074,7 @@ transform = "{1, 0, 0, 1, 0, 200}";
 }
 );
 layerId = "8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC";
-width = 254;
+width = 194;
 }
 );
 },
