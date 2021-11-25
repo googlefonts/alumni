@@ -73,7 +73,9 @@ DisplayStrings = (
 "/nine.lf",
 "/eight.lf",
 "paral/periodcentered.loclCAT lel",
-"PARAL/periodcentered.loclCAT.case LEL"
+"PARAL/periodcentered.loclCAT.case LEL",
+"/seven.tf",
+"/Uhorn/Ohorn/space d/ohornhookabove/space/uhorn/ohorn ng/space/dcroat/uhornacute t/space/Dcroat/Uhornacute T/space T/ocircumflexacute t"
 );
 classes = (
 {
@@ -20884,7 +20886,7 @@ unicode = 1ECF;
 {
 color = 9;
 glyphname = ohorn;
-lastChange = "2021-11-23 13:47:11 +0000";
+lastChange = "2021-11-25 08:40:19 +0000";
 layers = (
 {
 background = {
@@ -68565,7 +68567,7 @@ three = {
 comma = -15;
 };
 uhorn = {
-ohorn = -30;
+ohorn = 0;
 ohorndotbelow = -30;
 };
 v.sc = {
