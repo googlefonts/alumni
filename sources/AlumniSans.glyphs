@@ -23,7 +23,8 @@ DisplayStrings = (
 "/dotaccentcomb",
 "/macronbelowcomb",
 "/strokeshortcomb",
-"/macronbelowcomb"
+"/macronbelowcomb",
+"/dieresisbelowcomb"
 );
 classes = (
 {
@@ -73579,7 +73580,7 @@ unicode = 0323;
 {
 color = 9;
 glyphname = dieresisbelowcomb;
-lastChange = "2021-11-26 03:16:20 +0000";
+lastChange = "2021-11-26 04:23:45 +0000";
 layers = (
 {
 anchors = (
@@ -73605,7 +73606,11 @@ width = 124;
 anchors = (
 {
 name = _bottom;
-position = "{128, 0}";
+position = "{129, 0}";
+},
+{
+name = bottom;
+position = "{129, -145}";
 }
 );
 components = (
