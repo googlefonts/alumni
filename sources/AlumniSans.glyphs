@@ -1,13 +1,14 @@
 {
-.appVersion = "1357";
+.appVersion = "1352";
 DisplayStrings = (
-"HH/Placeholder HO/Placeholder OOFAF/space GAG\012A/Placeholder A/space B/Placeholder B/space C/Placeholder C/space D/Placeholder D/space E/Placeholder E/space F/Placeholder F/space G/Placeholder G/space H/Placeholder H/space I/Placeholder I/space/space J/Placeholder J/space K/Placeholder K/space L/Placeholder L/space M/Placeholder M/space N/Placeholder N/space O/Placeholder O/space P/Placeholder P/space Q/Placeholder Q/space R/Placeholder R/space S/Placeholder S/space T/Placeholder T/space U/Placeholder U/space V/Placeholder V/space W/Placeholder W/space X/Placeholder X/space Y/Placeholder Y/space Z/Placeholder Z/space HH/Placeholder HO/Placeholder OO\012HTVFDVJYCGOOMALYAVROYONMJMVWATHBOCDEFGHIJKOLMHNOPOQRSOTUVWOXOYZ\012\012AWARD/space AVATAR/space YOU/space AFAIK/space ALL/space TALL/space TOMATO/space PAIN/space AUSTRAL/space OVOIDE/space OXO/space OYO/space AMAYA/space TIT/space FOLD/space AVANZAR/space Peto/space Fosforo/space Pato/space Pito/space Feo/space Tuvo/space TieneTaraTermo/space Tomate/space Yuno/space Yin/space Yale/space You/space Yeyo/space Fio/space Falaz/space Wonder/space Volcan/space Wals/space Well/space/space Winston/space Wulc/space/space Viene/space Variar/space Velocidad/space Kellogs/space Kunst/space Kale/space \012LORD/space PJROJO/space WYN\012V/Acircumflexdotbelow Y/space CH/Adotbelow Y/space/Dcroat/Uhornacute T/space/Ohornacute T/space TH/Uhorn/Ohorn NG/space T/Acircumflexacute Y/space \012AWARD/space AVATAR/space YOU/space AFAIK/space ALL/space TALL/space TOMATO/space PAIN/space AUSTRAL/space OVOIDE/space OXO/space OYO/space AMAYA/space TIT/space FOLD/space AVANZAR/space ALTAR/space LYON/space ARVO/space RYAN/space MY/space ALVARO/space BYPRO/space QUYJ/space",
+"HH/Placeholder HO/Placeholder OOFAF/space GAG\012A/Placeholder A/space B/Placeholder B/space C/Placeholder C/space D/Placeholder D/space E/Placeholder E/space F/Placeholder F/space G/Placeholder G/space H/Placeholder H/space I/Placeholder I/space/space J/Placeholder J/space K/Placeholder K/space L/Placeholder L/space M/Placeholder M/space N/Placeholder N/space O/Placeholder O/space P/Placeholder P/space Q/Placeholder Q/space R/Placeholder R/space S/Placeholder S/space T/Placeholder T/space U/Placeholder U/space V/Placeholder V/space W/Placeholder W/space X/Placeholder X/space Y/Placeholder Y/space Z/Placeholder Z/space HH/Placeholder HO/Placeholder OO\012HTVFDVJYCGOOMALYAVROYONMJMVWATHBOCDEFGHIJKOLMHNOPOQRSOTUVWOXOYZ\012\012HHAWARDHH/space AVATAR/space YOU/space AFAIK/space ALL/space TALL/space TOMATO/space PAIN/space AUSTRAL/space OVOIDE/space OXO/space OYO/space AMAYA/space TIT/space FOLD/space AVANZAR/space Peto/space Fosforo/space Pato/space Pito/space Feo/space Tuvo/space TieneTaraTermo/space Tomate/space Yuno/space Yin/space Yale/space You/space Yeyo/space Fio/space Falaz/space Wonder/space Volcan/space Wals/space Well/space/space Winston/space Wulc/space/space Viene/space Variar/space Velocidad/space Kellogs/space Kunst/space Kale/space \012LORD/space PJROJO/space WYN/space ALTAR\012V/Acircumflexdotbelow Y/space CHT/Adotbelow Y/space/Dcroat/Uhornacute T/space/Ohornacute T/space TH/Uhorn/Ohorn NG/space T/Acircumflexacute Y/space \012AWARD/space AVATAR/space YOU/space AFAIK/space ALL/space TALL/space TOMATO/space PAIN/space AUSTRAL/space OVOIDE/space OXO/space OYO/space AMAYA/space TIT/space FOLD/space AVANZAR/space ALTAR/space LYON/space ARVO/space RYAN/space MY/space ALVARO/space BYPRO/space QUYJ/space",
 "a/Placeholder a/space b/Placeholder b/space c/Placeholder c/space d/Placeholder d/space e/Placeholder e/space f/Placeholder f/space g/Placeholder g/space h/Placeholder h/space i/Placeholder i/space jjj/space k/Placeholder k/space l/Placeholder l/space m/Placeholder m/space n/Placeholder n/space o/Placeholder o/space p/Placeholder p/space q/Placeholder q/space r/Placeholder r/space s/Placeholder s/space t/Placeholder t/space u/Placeholder u/space v/Placeholder v/space w/Placeholder w/space x/Placeholder x/space y/Placeholder y/space z/Placeholder z\012nn/Placeholder no/Placeholder oo\012ABCDEFGHIJKLMNOPQRSTUVXY/space Lvl\012abcdefghijklmnopqrstuvwxyz/space \012Wong/space fear/space fall/space kilo/space long/space ovoide/space want/space wind/space oxo/space zapato/space Kolker\012Twombli/space Tgmaiwan/space Taiwan/space Tomato/space Temperture/space Tiro/space Twardock/space Walking/space Wonder/space Wc/space Wd/space/space Wrcnder/space/space You/space Family/space Fear/space Furor/space Vocal/space Viajar/space Zusam/space Pearl/space Point/space Pain/space Ayuda/space \012Kilo/space Londres/space Leon/space Lio/space Month/space \012Th/uhorn/ohorn ng/space T/ocircumflexacute t/space t/acircumflexacute t/space Nh/acircumflexacute t/space V/ocircumflexgrave ng/space/Dcroat/uhornacute ng/space B/uhornacute t/space/Dcroat/ocircumflexacute c/space k/ydotbelow ./space ng/uhorn/ohorngrave i/space Ng/uhorn/ohorntilde ng",
 "/caroncomb",
 "/caroncomb.case",
 $,
 "/zero.tf/one.tf/two.tf/three.tf/four.tf/five.tf/six.tf/seven.tf/eight.tf/nine.tf",
-"/euro.tf"
+"/euro.tf",
+"TÁM"
 );
 classes = (
 {
@@ -1278,7 +1279,7 @@ unicode = 00C2;
 {
 color = 9;
 glyphname = Acircumflexacute;
-lastChange = "2021-11-23 13:47:34 +0000";
+lastChange = "2021-11-30 13:38:43 +0000";
 layers = (
 {
 background = {
@@ -1329,6 +1330,8 @@ layerId = "5AAFD18E-AEF5-43C3-A12E-1BAE6B19067F";
 width = 356;
 }
 );
+leftKerningGroup = A;
+rightKerningGroup = A;
 unicode = 1EA4;
 },
 {
@@ -1664,7 +1667,7 @@ unicode = 00C4;
 {
 color = 9;
 glyphname = Adotbelow;
-lastChange = "2021-11-23 13:47:34 +0000";
+lastChange = "2021-11-30 13:38:15 +0000";
 layers = (
 {
 background = {
@@ -1715,6 +1718,8 @@ layerId = "5AAFD18E-AEF5-43C3-A12E-1BAE6B19067F";
 width = 356;
 }
 );
+leftKerningGroup = A;
+rightKerningGroup = A;
 unicode = 1EA0;
 },
 {
@@ -14166,7 +14171,7 @@ unicode = 0168;
 {
 color = 4;
 glyphname = V;
-lastChange = "2021-11-30 07:00:26 +0000";
+lastChange = "2021-11-30 13:36:29 +0000";
 layers = (
 {
 background = {
@@ -14248,7 +14253,7 @@ unicode = 0056;
 {
 color = 4;
 glyphname = W;
-lastChange = "2021-05-28 00:57:18 +0000";
+lastChange = "2021-11-30 13:36:24 +0000";
 layers = (
 {
 anchors = (
@@ -14690,7 +14695,7 @@ unicode = 0058;
 {
 color = 4;
 glyphname = Y;
-lastChange = "2021-11-30 06:28:44 +0000";
+lastChange = "2021-11-30 13:36:39 +0000";
 layers = (
 {
 anchors = (
@@ -79040,6 +79045,7 @@ Y = -7;
 };
 "@MMK_L_T" = {
 "@MMK_R_O" = 0;
+"@MMK_R_A" = -30;
 };
 "@MMK_L_V" = {
 "@MMK_R_O" = -7;
@@ -79091,8 +79097,8 @@ y.sc = -7;
 };
 A = {
 T = -30;
-V = -40;
-W = -40;
+V = -30;
+W = -30;
 };
 Ecircumflexhookabove = {
 Ecircumflextilde = 1;
@@ -79111,15 +79117,14 @@ N = {
 D = 0;
 };
 T = {
-A = -30;
 O = -14;
 };
 V = {
-A = -40;
+A = -30;
 O = -7;
 };
 W = {
-A = -40;
+A = -30;
 };
 X = {
 "@MMK_R_O" = 0;
@@ -79128,7 +79133,7 @@ O = -8;
 Y = {
 "@MMK_R_A" = -30;
 "@MMK_R_O" = -1;
-O = -7;
+O = -18;
 };
 a.sc = {
 t.sc = -29;
@@ -79196,6 +79201,9 @@ o.sc = -8;
 y.sc = {
 "@MMK_R_o.sc" = -1;
 o.sc = -7;
+};
+"@MMK_L_A" = {
+Y = -10;
 };
 };
 "8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC" = {
