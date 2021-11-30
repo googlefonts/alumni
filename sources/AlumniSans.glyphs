@@ -619,7 +619,7 @@ unicode = 00A0;
 {
 color = 4;
 glyphname = A;
-lastChange = "2021-11-30 06:59:04 +0000";
+lastChange = "2021-11-30 07:00:19 +0000";
 layers = (
 {
 anchors = (
@@ -12283,7 +12283,7 @@ unicode = 018F;
 {
 color = 4;
 glyphname = T;
-lastChange = "2021-11-25 06:43:21 +0000";
+lastChange = "2021-11-30 07:00:00 +0000";
 layers = (
 {
 anchors = (
@@ -14161,7 +14161,7 @@ unicode = 0168;
 {
 color = 4;
 glyphname = V;
-lastChange = "2021-05-26 04:14:52 +0000";
+lastChange = "2021-11-30 07:00:26 +0000";
 layers = (
 {
 background = {
@@ -79023,6 +79023,9 @@ kerning = {
 "@MMK_L_K" = {
 "@MMK_R_O" = -12;
 };
+"@MMK_L_L" = {
+"@MMK_R_V" = -10;
+};
 "@MMK_L_O" = {
 "@MMK_R_T" = -14;
 "@MMK_R_V" = -7;
@@ -79097,7 +79100,7 @@ O = -12;
 };
 L = {
 S = -30;
-T = -97;
+T = -37;
 };
 N = {
 D = 0;
@@ -79118,6 +79121,7 @@ X = {
 O = -8;
 };
 Y = {
+"@MMK_R_A" = -30;
 "@MMK_R_O" = -1;
 O = -7;
 };
