@@ -22,7 +22,12 @@ DisplayStrings = (
 "7/seven.tf",
 ":",
 ".;",
-";"
+",;",
+";",
+"/seven.lf",
+"./ellipsis",
+"/ellipsis",
+"!"
 );
 classes = (
 {
@@ -48077,48 +48082,46 @@ unicode = 003A;
 },
 {
 glyphname = semicolon;
-lastChange = "2021-11-30 07:54:18 +0000";
+lastChange = "2021-11-30 08:07:10 +0000";
 layers = (
 {
 background = {
 components = (
 {
 name = comma;
-transform = "{1, 0, 0.14054, 1, 23, 0}";
+transform = "{1, 0, 0.14054, 1, -4, 0}";
 },
 {
 name = period;
-transform = "{1, 0, 0.14054, 1, 43, 283}";
+transform = "{1, 0, 0.14054, 1, 16, 283}";
 }
 );
 };
 components = (
 {
-name = comma;
-transform = "{1, 0, 0.14054, 1, 23, 0}";
+name = period;
+transform = "{1, 0, 0, 1, 39, 282}";
 },
 {
-name = period;
-transform = "{1, 0, 0, 1, 66, 282}";
+name = comma;
+transform = "{1, 0, 0, 1, 10, 0}";
 }
 );
 layerId = "8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC";
-width = 284;
+width = 264;
 },
 {
 components = (
 {
-alignment = -1;
-name = comma;
-transform = "{1, 0, 0.14054, 1, 14, 0}";
+name = period;
+transform = "{1, 0, 0, 1, 47, 286}";
 },
 {
-name = period;
-transform = "{1, 0, 0, 1, 63, 286}";
+name = comma;
 }
 );
 layerId = "D84909E6-9227-4984-810E-91F1FC034344";
-width = 173;
+width = 157;
 }
 );
 leftKerningGroup = period;
@@ -48130,7 +48133,7 @@ unicode = 003B;
 },
 {
 glyphname = ellipsis;
-lastChange = "2021-05-19 22:43:31 +0000";
+lastChange = "2021-11-30 08:08:39 +0000";
 layers = (
 {
 background = {
@@ -48160,36 +48163,31 @@ transform = "{1, 0, 0.14054, 1, 193, 0}";
 components = (
 {
 name = period;
-transform = "{1, 0, 0.14054, 1, -10, 0}";
+transform = "{1, 0, 0, 1, 405, 0}";
 },
 {
 name = period;
-transform = "{1, 0, 0.14054, 1, 193, 0}";
 },
 {
 name = period;
-transform = "{1, 0, 0.14054, 1, 400, 0}";
+transform = "{1, 0, 0, 1, 199, 0}";
 }
 );
 layerId = "8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC";
-width = 664;
+width = 661;
 },
 {
 components = (
 {
-alignment = -1;
 name = period;
-transform = "{1, 0, 0.14054, 1, -3, 0}";
+transform = "{1, 0, 0, 1, 243, 0}";
 },
 {
-alignment = -1;
 name = period;
-transform = "{1, 0, 0.14054, 1, 122, -1}";
 },
 {
-alignment = -1;
 name = period;
-transform = "{1, 0, 0.14054, 1, 241, -1}";
+transform = "{1, 0, 0, 1, 124, 0}";
 }
 );
 layerId = "D84909E6-9227-4984-810E-91F1FC034344";
