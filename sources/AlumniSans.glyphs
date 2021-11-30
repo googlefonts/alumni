@@ -1,25 +1,8 @@
 {
 .appVersion = "1357";
 DisplayStrings = (
-"a/Placeholder a/space b/Placeholder b/space c/Placeholder c/space d/Placeholder d/space e/Placeholder e/space f/Placeholder f/space g/Placeholder g/space h/Placeholder h/space i/Placeholder i/space jjj/space k/Placeholder k/space l/Placeholder l/space m/Placeholder m/space n/Placeholder n/space o/Placeholder o/space p/Placeholder p/space q/Placeholder q/space r/Placeholder r/space s/Placeholder s/space t/Placeholder t/space u/Placeholder u/space v/Placeholder v/space w/Placeholder w/space x/Placeholder x/space y/Placeholder y/space z/Placeholder z\012nn/Placeholder no/Placeholder oo\012abcdefghijklmnopqrstuvwxyza\012á/abreve/abreveacute/abrevedotbelow/abrevegrave/abrevehookabove/abrevetilde/acaron â/acircumflexacute/acircumflexdotbelow/acircumflexgrave nn/acircumflexhookabove nnâánm/acircumflextilde/adblgrave ä\012fear/space fall/space kilo/space long/space ovoide/space want/space wind/space oxo/space zapato\012Twombli/space Tgmaiwan/space Taiwan/space Tomato/space Temperture/space Tiro/space Twardock/space Walking/space Wonder/space Wc/space Wd/space/space Wrcnder/space/space You/space Family/space Fear/space Furor/space Vocal/space Viajar/space Zusam/space Pearl/space Point/space Pain/space Ayuda/space \012Kilo/space Londres/space Leon/space Lio/space Month",
-"HHHOOOHOHOHHH\012HH/Placeholder HO/Placeholder OOno\012ABCDEFGHIJKOLOMN\012OPQRSOTOUOVOWOXOYOZO\0120123456789",
-"AÁ/Abreve/Abreveacute/Abrevedotbelow/Abrevegrave/Abrevehookabove/dollar.tf/Abrevetilde/Acaron Â/Acircumflexacute/Acircumflexdotbelow/Acircumflexgrave/Acircumflexhookabove/Acircumflextilde Ä/Adotbelow À/Ahookabove",
-"á/cacute éí/lacute/nacute ó/ohorn/ohornacute/racute/sacute ú/udieresisacute/uhornacute/wacute ý/zacute Á/Abreve/Abreveacute/Abrevedotbelow/Abrevegrave/Abrevehookabove/Abrevetilde/Acaron Â/Acircumflexacute/Acircumflexdotbelow/Acircumflexgrave/Acircumflexhookabove/Acircumflextilde Ä/Adotbelow À/Ahookabove/Amacron/Aogonek ÅÃ",
-":;/ellipsis ·/zero.lf/Abrevedotbelow",
-"l/one.lf ,/one.lf l/lcaron LHHL/Lcaron HHHt/one.lf/tcaron d/dcaron/zcaron/space/dcaron ongr/space/dcaron t/space/dcaron k",
-"0/Placeholder 0/space 1/Placeholder 1/space 2/Placeholder 2/space 3/Placeholder 3/space 4/Placeholder 4/space 5/Placeholder 5/space 6/Placeholder 6/space 7/Placeholder 7/space 8/Placeholder 8/space 9/Placeholder 9\012/foursuperior ­/space 7/divisionslash 746/space 1//241/divisionslash 2/space 727\012HHH1HH2HH3HH4HH5HH6HH7HH8HH9HH0HHO",
-"/dieresiscomb/dotaccentcomb/hungarumlautcomb/one.lf/caroncomb/ringcomb/macroncomb/commaturnedabovecomb/commaaccentcomb/cedillacomb/ogonekcomb",
-"/two.lf/three.lf/four.lf/five.lf/six.lf/seven.lf/eight.lf/nine.lf/periodcentered.loclCAT",
-"/dieresiscomb/dotaccentcomb/hungarumlautcomb/one.lf/caroncomb/ringcomb/macroncomb g/gcommaaccent/commaturnedabovecomb/kcommaaccent/lcommaaccent/ncommaaccent/rcommaaccent/commaaccentcomb/cedillacomb/ogonekcomb/Aogonek/Eogonek/Iogonek/Uogonek/aogonek/eogonek/iogonek u/uogonek/ogonek ç",
-"/commaaccentcomb/Gcommaaccent KK/Kcommaaccent L/Lcommaaccent/Ncommaaccent R/Rcommaaccent S/Scommaaccent T/Tcommaaccent k/kcommaaccent/lcommaaccent n/ncommaaccent r/rcommaaccent s/scommaaccent t/tcommaaccent/kcommaaccent",
-"E/Edotbelow/cedillacomb Ç/Scedilla/Tcedilla jcçps/sacute/scaron/scedilla j/commaaccentcomb p/scommaaccent/dze-cy/scedilla/cedillacomb ¸áüê/macroncomb/omacron/space",
-"nn/Placeholder no/Placeholder oo/space HH/Placeholder HO/Placeholder OO\012o.,:;/ellipsis !¡?¿nn?·/bullet *#///backslash/periodcentered.loclCAT.case/periodcentered.loclCAT (){}[]-­/endash/emdash/hyphentwo _o/quotesinglbase/quotedblbase \012/quotedblleft/quotedblright/quoteleft/quoteright «»/guilsinglleft/guilsinglright \"'/leftanglebracket-math/rightanglebracket-math @$/dollar.tf ../period.tf :",
-"â/acircumflexacute/acircumflexdotbelow/acircumflexgrave/acircumflexhookabove/acircumflextilde",
-"á/abreve/abreveacute/abrevedotbelow/abrevegrave/abrevehookabove/abrevetilde/acaron â/circumflexcomb/circumflexcomb_acutecomb/acircumflexacute/acircumflexdotbelow/acutecomb/circumflexcomb_gravecomb/acircumflexgrave/acircumflexhookabove/acircumflextilde/adblgrave ä/adotbelow à/ahookabove/ainvertedbreve/amacron/aogonek å/aringacute",
-"/circumflexcomb",
-"/circumflexcomb/circumflexcomb_acutecomb",
-"/circumflexcomb.case",
-"/circumflex"
+"HH/Placeholder HO/Placeholder OOFAF/space GAG\012A/Placeholder A/space B/Placeholder B/space C/Placeholder C/space D/Placeholder D/space E/Placeholder E/space F/Placeholder F/space G/Placeholder G/space H/Placeholder H/space I/Placeholder I/space/space J/Placeholder J/space K/Placeholder K/space L/Placeholder L/space M/Placeholder M/space N/Placeholder N/space O/Placeholder O/space P/Placeholder P/space Q/Placeholder Q/space R/Placeholder R/space S/Placeholder S/space T/Placeholder T/space U/Placeholder U/space V/Placeholder V/space W/Placeholder W/space X/Placeholder X/space Y/Placeholder Y/space Z/Placeholder Z/space HH/Placeholder HO/Placeholder OO\012HTVFDVJYCGOOMALYAVROYONMJMVWATHBOCDEFGHIJKOLMHNOPOQRSOTUVWOXOYZ\012\012AWARD/space AVATAR/space YOU/space AFAIK/space ALL/space TALL/space TOMATO/space PAIN/space AUSTRAL/space OVOIDE/space OXO/space OYO/space AMAYA/space TIT/space FOLD/space AVANZAR/space Peto/space Fosforo/space Pato/space Pito/space Feo/space Tuvo/space TieneTaraTermo/space Tomate/space Yuno/space Yin/space Yale/space You/space Yeyo/space Fio/space Falaz/space Wonder/space Volcan/space Wals/space Well/space/space Winston/space Wulc/space/space Viene/space Variar/space Velocidad/space Kellogs/space Kunst/space Kale/space \012LORD/space PJROJO/space WYN\012V/Acircumflexdotbelow Y/space CH/Adotbelow Y/space/Dcroat/Uhornacute T/space/Ohornacute T/space TH/Uhorn/Ohorn NG/space T/Acircumflexacute Y/space \012AWARD/space AVATAR/space YOU/space AFAIK/space ALL/space TALL/space TOMATO/space PAIN/space AUSTRAL/space OVOIDE/space OXO/space OYO/space AMAYA/space TIT/space FOLD/space AVANZAR/space ALTAR/space LYON/space ARVO/space RYAN/space MY/space ALVARO/space BYPRO/space QUYJ/space",
+"a/Placeholder a/space b/Placeholder b/space c/Placeholder c/space d/Placeholder d/space e/Placeholder e/space f/Placeholder f/space g/Placeholder g/space h/Placeholder h/space i/Placeholder i/space jjj/space k/Placeholder k/space l/Placeholder l/space m/Placeholder m/space n/Placeholder n/space o/Placeholder o/space p/Placeholder p/space q/Placeholder q/space r/Placeholder r/space s/Placeholder s/space t/Placeholder t/space u/Placeholder u/space v/Placeholder v/space w/Placeholder w/space x/Placeholder x/space y/Placeholder y/space z/Placeholder z\012nn/Placeholder no/Placeholder oo\012ABCDEFGHIJKLMNOPQRSTUVXY/space Lvl\012abcdefghijklmnopqrstuvwxyz/space \012Wong/space fear/space fall/space kilo/space long/space ovoide/space want/space wind/space oxo/space zapato/space Kolker\012Twombli/space Tgmaiwan/space Taiwan/space Tomato/space Temperture/space Tiro/space Twardock/space Walking/space Wonder/space Wc/space Wd/space/space Wrcnder/space/space You/space Family/space Fear/space Furor/space Vocal/space Viajar/space Zusam/space Pearl/space Point/space Pain/space Ayuda/space \012Kilo/space Londres/space Leon/space Lio/space Month/space \012Th/uhorn/ohorn ng/space T/ocircumflexacute t/space t/acircumflexacute t/space Nh/acircumflexacute t/space V/ocircumflexgrave ng/space/Dcroat/uhornacute ng/space B/uhornacute t/space/Dcroat/ocircumflexacute c/space k/ydotbelow ./space ng/uhorn/ohorngrave i/space Ng/uhorn/ohorntilde ng"
 );
 classes = (
 {
@@ -636,7 +619,7 @@ unicode = 00A0;
 {
 color = 4;
 glyphname = A;
-lastChange = "2021-11-25 05:35:17 +0000";
+lastChange = "2021-11-30 06:59:04 +0000";
 layers = (
 {
 anchors = (
@@ -6616,7 +6599,7 @@ unicode = 0128;
 {
 color = 4;
 glyphname = J;
-lastChange = "2021-11-25 05:39:07 +0000";
+lastChange = "2021-11-30 06:29:57 +0000";
 layers = (
 {
 anchors = (
@@ -14702,7 +14685,7 @@ unicode = 0058;
 {
 color = 4;
 glyphname = Y;
-lastChange = "2021-05-28 00:57:28 +0000";
+lastChange = "2021-11-30 06:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -15540,7 +15523,7 @@ unicode = 017B;
 {
 color = 4;
 glyphname = a;
-lastChange = "2021-05-28 00:57:53 +0000";
+lastChange = "2021-11-30 06:23:34 +0000";
 layers = (
 {
 anchors = (
@@ -19005,7 +18988,7 @@ unicode = 01C6;
 {
 color = 4;
 glyphname = e;
-lastChange = "2021-05-28 00:59:43 +0000";
+lastChange = "2021-11-30 06:23:39 +0000";
 layers = (
 {
 anchors = (
@@ -21161,7 +21144,7 @@ unicode = 0125;
 {
 color = 4;
 glyphname = i;
-lastChange = "2021-05-28 01:00:18 +0000";
+lastChange = "2021-11-30 06:08:23 +0000";
 layers = (
 {
 anchors = (
@@ -23898,7 +23881,7 @@ unicode = 00F1;
 {
 color = 4;
 glyphname = o;
-lastChange = "2021-11-25 06:46:24 +0000";
+lastChange = "2021-11-30 06:23:14 +0000";
 layers = (
 {
 anchors = (
@@ -27034,7 +27017,7 @@ unicode = 0213;
 {
 color = 4;
 glyphname = s;
-lastChange = "2021-05-28 01:03:40 +0000";
+lastChange = "2021-11-30 06:34:56 +0000";
 layers = (
 {
 anchors = (
@@ -28407,7 +28390,7 @@ unicode = 021B;
 {
 color = 4;
 glyphname = u;
-lastChange = "2021-06-09 22:15:20 +0000";
+lastChange = "2021-11-30 06:23:26 +0000";
 layers = (
 {
 anchors = (
@@ -29972,7 +29955,7 @@ unicode = 0169;
 {
 color = 4;
 glyphname = v;
-lastChange = "2021-05-26 04:14:52 +0000";
+lastChange = "2021-11-30 06:36:19 +0000";
 layers = (
 {
 background = {
@@ -77657,7 +77640,7 @@ note = circumflexcomb_tildecomb;
 {
 color = 0;
 glyphname = brevecomb_acutecomb.case;
-lastChange = "2021-11-25 05:37:28 +0000";
+lastChange = "2021-11-30 06:25:55 +0000";
 layers = (
 {
 anchors = (
@@ -77768,8 +77751,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"161 496 LINE",
-"247 577 LINE",
+"151 496 LINE",
+"237 577 LINE",
 "104 577 LINE",
 "63 496 LINE"
 );
@@ -77794,7 +77777,7 @@ source = brevecomb_acutecomb;
 {
 color = 0;
 glyphname = brevecomb_gravecomb.case;
-lastChange = "2021-11-25 05:37:28 +0000";
+lastChange = "2021-11-30 06:25:58 +0000";
 layers = (
 {
 anchors = (
@@ -77908,8 +77891,8 @@ closed = 1;
 nodes = (
 "178 496 LINE",
 "137 577 LINE",
-"-6 577 LINE",
-"80 496 LINE"
+"4 577 LINE",
+"90 496 LINE"
 );
 }
 );
@@ -78291,7 +78274,7 @@ source = brevecomb_tildecomb;
 {
 color = 0;
 glyphname = circumflexcomb_acutecomb.case;
-lastChange = "2021-11-25 05:37:28 +0000";
+lastChange = "2021-11-30 06:25:40 +0000";
 layers = (
 {
 anchors = (
@@ -78396,8 +78379,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"332 446 LINE",
-"418 527 LINE",
+"322 446 LINE",
+"408 527 LINE",
 "275 527 LINE",
 "234 446 LINE"
 );
@@ -78422,7 +78405,7 @@ source = circumflexcomb_acutecomb;
 {
 color = 0;
 glyphname = circumflexcomb_gravecomb.case;
-lastChange = "2021-11-25 05:37:28 +0000";
+lastChange = "2021-11-30 06:25:45 +0000";
 layers = (
 {
 anchors = (
@@ -78531,8 +78514,8 @@ closed = 1;
 nodes = (
 "346 444 LINE",
 "305 525 LINE",
-"162 525 LINE",
-"248 444 LINE"
+"172 525 LINE",
+"258 444 LINE"
 );
 }
 );
@@ -79207,6 +79190,19 @@ o.sc = -7;
 };
 };
 "8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC" = {
+"@MMK_L_A" = {
+Y = -30;
+};
+"@MMK_L_B" = {
+Y = -20;
+};
+"@MMK_L_K" = {
+"@MMK_R_o" = -10;
+};
+"@MMK_L_L" = {
+"@MMK_R_v" = -40;
+Y = -40;
+};
 "@MMK_L_O" = {
 "@MMK_R_T" = -4;
 "@MMK_R_V" = -8;
@@ -79214,11 +79210,27 @@ o.sc = -7;
 X = -12;
 Y = -18;
 };
+"@MMK_L_P" = {
+"@MMK_R_A" = -30;
+};
+"@MMK_L_R" = {
+Y = -20;
+};
 "@MMK_L_T" = {
 "@MMK_R_O" = -4;
+"@MMK_R_o" = -30;
+"@MMK_R_s" = -30;
+};
+"@MMK_L_V" = {
+"@MMK_R_J" = -20;
+"@MMK_R_a" = -20;
+"@MMK_R_o" = -20;
 };
 "@MMK_L_W" = {
 "@MMK_R_O" = -8;
+"@MMK_R_a" = -20;
+"@MMK_R_o" = -20;
+"@MMK_R_u" = -10;
 };
 "@MMK_L_k" = {
 "@MMK_R_o" = -20;
@@ -79287,7 +79299,13 @@ X = {
 "@MMK_R_O" = -12;
 };
 Y = {
+"@MMK_R_A" = -40;
+"@MMK_R_J" = -40;
 "@MMK_R_O" = -18;
+"@MMK_R_a" = -45;
+"@MMK_R_o" = -45;
+"@MMK_R_u" = -20;
+i = -20;
 };
 a.sc = {
 t.sc = -29;
