@@ -1,16 +1,11 @@
 {
-.appVersion = "1352";
+.appVersion = "1357";
 DisplayStrings = (
 "HH/Placeholder HO/Placeholder OOFAF/space GAG\012A/Placeholder A/space B/Placeholder B/space C/Placeholder C/space D/Placeholder D/space E/Placeholder E/space F/Placeholder F/space G/Placeholder G/space H/Placeholder H/space I/Placeholder I/space/space J/Placeholder J/space K/Placeholder K/space L/Placeholder L/space M/Placeholder M/space N/Placeholder N/space O/Placeholder O/space P/Placeholder P/space Q/Placeholder Q/space R/Placeholder R/space S/Placeholder S/space T/Placeholder T/space U/Placeholder U/space V/Placeholder V/space W/Placeholder W/space X/Placeholder X/space Y/Placeholder Y/space Z/Placeholder Z/space HH/Placeholder HO/Placeholder OO\012ABCDEFGHIJKLMNOPQRSTUVWXYZ\012\012HHAWARDHH/space AVATAR/space YOU/space AF/Abrevedotbelow IK/space ALL/space TALL/space TOMATO/space PAIN/space AUSTRAL/space OVOIDE/space OXO/space OYO/space AMAYA/space TIT/space FOLD/space AVANZAR/space Peto/space Fosforo/space Pato/space Pito/space Feo/space Tuvo/space TieneTaraTermo/space Tomate/space Yuno/space Yin/space Yale/space You/space Yeyo/space Fio/space Falaz/space Wonder/space Volcan/space Wals/space Well/space/space Winston/space Wulc/space/space Viene/space Variar/space Velocidad/space Kellogs/space Kunst/space NDle/space XO/space \012LORD/space PJROJO/space WYN/space ALTAR\012V/Acircumflexdotbelow Y/space CHT/Adotbelow Y/space/Dcroat/Uhornacute T/space/Ohornacute T/space TH/Uhorn/Ohorn NG/space T/Acircumflexacute Y/space \012AWARD/space AVATAR/space YOU/space AFAIK/space ALL/space TALL/space TOMATO/space PAIN/space AUSTRAL/space OVOIDE/space OXO/space OYO/space AMAYA/space TIT/space FOLD/space AVANZAR/space ALTAR/space LYON/space ARVO/space RY/Abreveacute AN/space MY/space ALVARO/space BYPRO/space QUYJ/space",
 "a/Placeholder a/space b/Placeholder b/space c/Placeholder c/space d/Placeholder d/space e/Placeholder e/space f/Placeholder f/space g/Placeholder g/space h/Placeholder h/space i/Placeholder i/space jjj/space k/Placeholder k/space l/Placeholder l/space m/Placeholder m/space n/Placeholder n/space o/Placeholder o/space p/Placeholder p/space q/Placeholder q/space r/Placeholder r/space s/Placeholder s/space t/Placeholder t/space u/Placeholder u/space v/Placeholder v/space w/Placeholder w/space x/Placeholder x/space y/Placeholder y/space z/Placeholder z\012nn/Placeholder no/Placeholder oo\012ABCDEFGHIJKLMNOPQRSTUVXY/space Lvl\012abcdefghijklmnopqrstuvwxyz/space \012Wong/space fear/space fall/space kilo/space long/space ovoide/space want/space wind/space oxo/space zapato/space Kolker\012Twombli/space Tgmaiwan/space Taiwan/space Tomato/space Temperture/space Tiro/space Twardock/space Walking/space Wonder/space Wc/space Wd/space/space Wrcnder/space/space You/space Family/space Fear/space Furor/space Vocal/space Viajar/space Zusam/space Pearl/space Point/space Pain/space Ayuda/space \012Kilo/space Londres/space Leon/space Lio/space Month/space \012Th/uhorn/ohorn ng/space T/ocircumflexacute t/space t/acircumflexacute t/space Nh/acircumflexacute t/space V/ocircumflexgrave ng/space/Dcroat/uhornacute ng/space B/uhornacute t/space/Dcroat/ocircumflexacute c/space k/ydotbelow ./space ng/uhorn/ohorngrave i/space Ng/uhorn/ohorntilde ng",
-"/caroncomb",
-"/caroncomb.case",
-$,
-"/zero.tf/one.tf/two.tf/three.tf/four.tf/five.tf/six.tf/seven.tf/eight.tf/nine.tf",
-"/euro.tf",
-"TÁM",
-"/Ohorn AOA",
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
+ABCDEFGHIJKLMNOPQRSTUVWXYZ,
+g,
+"/eth.sc"
 );
 classes = (
 {
@@ -9326,7 +9321,7 @@ unicode = 1ECE;
 {
 color = 9;
 glyphname = Ohorn;
-lastChange = "2021-11-30 13:45:36 +0000";
+lastChange = "2021-12-01 03:01:17 +0000";
 layers = (
 {
 background = {
@@ -9380,13 +9375,13 @@ width = 409;
 }
 );
 leftKerningGroup = O;
-rightKerningGroup = Ohorn;
+rightKerningGroup = O;
 unicode = 01A0;
 },
 {
 color = 9;
 glyphname = Ohornacute;
-lastChange = "2021-11-30 13:45:36 +0000";
+lastChange = "2021-12-01 03:01:17 +0000";
 layers = (
 {
 background = {
@@ -9438,13 +9433,13 @@ width = 409;
 }
 );
 leftKerningGroup = O;
-rightKerningGroup = Ohorn;
+rightKerningGroup = O;
 unicode = 1EDA;
 },
 {
 color = 9;
 glyphname = Ohorndotbelow;
-lastChange = "2021-11-30 13:45:36 +0000";
+lastChange = "2021-12-01 03:01:17 +0000";
 layers = (
 {
 background = {
@@ -9496,13 +9491,13 @@ width = 409;
 }
 );
 leftKerningGroup = O;
-rightKerningGroup = Ohorn;
+rightKerningGroup = O;
 unicode = 1EE2;
 },
 {
 color = 9;
 glyphname = Ohorngrave;
-lastChange = "2021-11-30 13:45:36 +0000";
+lastChange = "2021-12-01 03:01:17 +0000";
 layers = (
 {
 background = {
@@ -9554,13 +9549,13 @@ width = 409;
 }
 );
 leftKerningGroup = O;
-rightKerningGroup = Ohorn;
+rightKerningGroup = O;
 unicode = 1EDC;
 },
 {
 color = 9;
 glyphname = Ohornhookabove;
-lastChange = "2021-11-30 13:45:36 +0000";
+lastChange = "2021-12-01 03:01:17 +0000";
 layers = (
 {
 background = {
@@ -9612,13 +9607,13 @@ width = 409;
 }
 );
 leftKerningGroup = O;
-rightKerningGroup = Ohorn;
+rightKerningGroup = O;
 unicode = 1EDE;
 },
 {
 color = 4;
 glyphname = Ohorntilde;
-lastChange = "2021-11-30 13:45:36 +0000";
+lastChange = "2021-12-01 03:01:17 +0000";
 layers = (
 {
 background = {
@@ -9670,7 +9665,7 @@ width = 409;
 }
 );
 leftKerningGroup = O;
-rightKerningGroup = Ohorn;
+rightKerningGroup = O;
 unicode = 1EE0;
 },
 {
@@ -13795,7 +13790,7 @@ unicode = 1EE6;
 {
 color = 9;
 glyphname = Uhorn;
-lastChange = "2021-11-30 13:45:36 +0000";
+lastChange = "2021-12-01 03:02:05 +0000";
 layers = (
 {
 background = {
@@ -13849,13 +13844,13 @@ width = 418;
 }
 );
 leftKerningGroup = U;
-rightKerningGroup = Uhorn;
+rightKerningGroup = U;
 unicode = 01AF;
 },
 {
 color = 9;
 glyphname = Uhornacute;
-lastChange = "2021-11-30 13:45:36 +0000";
+lastChange = "2021-12-01 03:02:05 +0000";
 layers = (
 {
 background = {
@@ -13907,13 +13902,13 @@ width = 418;
 }
 );
 leftKerningGroup = U;
-rightKerningGroup = Uhorn;
+rightKerningGroup = U;
 unicode = 1EE8;
 },
 {
 color = 9;
 glyphname = Uhorndotbelow;
-lastChange = "2021-11-30 13:45:36 +0000";
+lastChange = "2021-12-01 03:02:05 +0000";
 layers = (
 {
 background = {
@@ -13965,13 +13960,13 @@ width = 418;
 }
 );
 leftKerningGroup = U;
-rightKerningGroup = Uhorn;
+rightKerningGroup = U;
 unicode = 1EF0;
 },
 {
 color = 9;
 glyphname = Uhorngrave;
-lastChange = "2021-11-30 13:45:36 +0000";
+lastChange = "2021-12-01 03:02:05 +0000";
 layers = (
 {
 background = {
@@ -14023,13 +14018,13 @@ width = 418;
 }
 );
 leftKerningGroup = U;
-rightKerningGroup = Uhorn;
+rightKerningGroup = U;
 unicode = 1EEA;
 },
 {
 color = 9;
 glyphname = Uhornhookabove;
-lastChange = "2021-11-30 13:45:36 +0000";
+lastChange = "2021-12-01 03:02:05 +0000";
 layers = (
 {
 background = {
@@ -14081,13 +14076,13 @@ width = 418;
 }
 );
 leftKerningGroup = U;
-rightKerningGroup = Uhorn;
+rightKerningGroup = U;
 unicode = 1EEC;
 },
 {
 color = 9;
 glyphname = Uhorntilde;
-lastChange = "2021-11-30 13:45:36 +0000";
+lastChange = "2021-12-01 03:02:05 +0000";
 layers = (
 {
 background = {
@@ -14139,7 +14134,7 @@ width = 418;
 }
 );
 leftKerningGroup = U;
-rightKerningGroup = Uhorn;
+rightKerningGroup = U;
 unicode = 1EEE;
 },
 {
@@ -20860,7 +20855,7 @@ unicode = 0066;
 {
 color = 4;
 glyphname = g;
-lastChange = "2021-11-30 13:45:36 +0000";
+lastChange = "2021-12-01 03:04:29 +0000";
 layers = (
 {
 anchors = (
@@ -21119,16 +21114,16 @@ nodes = (
 width = 343;
 }
 );
-leftKerningGroup = o;
+leftKerningGroup = c;
 leftMetricsKey = o;
-rightKerningGroup = a;
+rightKerningGroup = n;
 rightMetricsKey = "=o+5";
 unicode = 0067;
 },
 {
 color = 9;
 glyphname = gbreve;
-lastChange = "2021-11-30 13:45:36 +0000";
+lastChange = "2021-12-01 03:04:29 +0000";
 layers = (
 {
 background = {
@@ -21179,14 +21174,14 @@ layerId = "5AAFD18E-AEF5-43C3-A12E-1BAE6B19067F";
 width = 343;
 }
 );
-leftKerningGroup = o;
-rightKerningGroup = a;
+leftKerningGroup = c;
+rightKerningGroup = n;
 unicode = 011F;
 },
 {
 color = 9;
 glyphname = gcaron;
-lastChange = "2021-11-30 13:45:36 +0000";
+lastChange = "2021-12-01 03:04:29 +0000";
 layers = (
 {
 components = (
@@ -21215,14 +21210,14 @@ layerId = "8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC";
 width = 391;
 }
 );
-leftKerningGroup = o;
-rightKerningGroup = a;
+leftKerningGroup = c;
+rightKerningGroup = n;
 unicode = 01E7;
 },
 {
 color = 9;
 glyphname = gcircumflex;
-lastChange = "2021-11-30 13:45:36 +0000";
+lastChange = "2021-12-01 03:04:29 +0000";
 layers = (
 {
 components = (
@@ -21251,14 +21246,14 @@ layerId = "8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC";
 width = 391;
 }
 );
-leftKerningGroup = o;
-rightKerningGroup = a;
+leftKerningGroup = c;
+rightKerningGroup = n;
 unicode = 011D;
 },
 {
 color = 9;
 glyphname = gcommaaccent;
-lastChange = "2021-11-30 13:45:36 +0000";
+lastChange = "2021-12-01 03:04:29 +0000";
 layers = (
 {
 components = (
@@ -21287,14 +21282,14 @@ layerId = "5AAFD18E-AEF5-43C3-A12E-1BAE6B19067F";
 width = 343;
 }
 );
-leftKerningGroup = o;
-rightKerningGroup = a;
+leftKerningGroup = c;
+rightKerningGroup = n;
 unicode = 0123;
 },
 {
 color = 9;
 glyphname = gdotaccent;
-lastChange = "2021-11-30 13:45:36 +0000";
+lastChange = "2021-12-01 03:04:29 +0000";
 layers = (
 {
 background = {
@@ -21345,8 +21340,8 @@ layerId = "5AAFD18E-AEF5-43C3-A12E-1BAE6B19067F";
 width = 343;
 }
 );
-leftKerningGroup = o;
-rightKerningGroup = a;
+leftKerningGroup = c;
+rightKerningGroup = n;
 unicode = 0121;
 },
 {
@@ -25481,7 +25476,7 @@ unicode = 1ECF;
 {
 color = 9;
 glyphname = ohorn;
-lastChange = "2021-11-30 13:45:36 +0000";
+lastChange = "2021-12-01 03:05:16 +0000";
 layers = (
 {
 background = {
@@ -25535,13 +25530,13 @@ width = 340;
 }
 );
 leftKerningGroup = o;
-rightKerningGroup = ohorn;
+rightKerningGroup = o;
 unicode = 01A1;
 },
 {
 color = 9;
 glyphname = ohornacute;
-lastChange = "2021-11-30 13:45:36 +0000";
+lastChange = "2021-12-01 03:05:16 +0000";
 layers = (
 {
 background = {
@@ -25593,13 +25588,13 @@ width = 340;
 }
 );
 leftKerningGroup = o;
-rightKerningGroup = ohorn;
+rightKerningGroup = o;
 unicode = 1EDB;
 },
 {
 color = 9;
 glyphname = ohorndotbelow;
-lastChange = "2021-11-30 13:45:36 +0000";
+lastChange = "2021-12-01 03:05:16 +0000";
 layers = (
 {
 background = {
@@ -25651,13 +25646,13 @@ width = 340;
 }
 );
 leftKerningGroup = o;
-rightKerningGroup = ohorn;
+rightKerningGroup = o;
 unicode = 1EE3;
 },
 {
 color = 9;
 glyphname = ohorngrave;
-lastChange = "2021-11-30 13:45:36 +0000";
+lastChange = "2021-12-01 03:05:16 +0000";
 layers = (
 {
 background = {
@@ -25708,13 +25703,13 @@ width = 340;
 }
 );
 leftKerningGroup = o;
-rightKerningGroup = ohorn;
+rightKerningGroup = o;
 unicode = 1EDD;
 },
 {
 color = 9;
 glyphname = ohornhookabove;
-lastChange = "2021-11-30 13:45:36 +0000";
+lastChange = "2021-12-01 03:05:16 +0000";
 layers = (
 {
 background = {
@@ -25766,13 +25761,13 @@ width = 340;
 }
 );
 leftKerningGroup = o;
-rightKerningGroup = ohorn;
+rightKerningGroup = o;
 unicode = 1EDF;
 },
 {
 color = 0;
 glyphname = ohorntilde;
-lastChange = "2021-11-30 13:45:36 +0000";
+lastChange = "2021-12-01 03:05:16 +0000";
 layers = (
 {
 background = {
@@ -25824,7 +25819,7 @@ width = 340;
 }
 );
 leftKerningGroup = o;
-rightKerningGroup = ohorn;
+rightKerningGroup = o;
 unicode = 1EE1;
 },
 {
@@ -29914,7 +29909,7 @@ unicode = 1EE7;
 {
 color = 9;
 glyphname = uhorn;
-lastChange = "2021-11-30 13:45:36 +0000";
+lastChange = "2021-12-01 03:06:03 +0000";
 layers = (
 {
 background = {
@@ -29968,13 +29963,13 @@ width = 361;
 }
 );
 leftKerningGroup = u;
-rightKerningGroup = uhorn;
+rightKerningGroup = u;
 unicode = 01B0;
 },
 {
 color = 9;
 glyphname = uhornacute;
-lastChange = "2021-11-30 13:45:36 +0000";
+lastChange = "2021-12-01 03:06:03 +0000";
 layers = (
 {
 background = {
@@ -30026,13 +30021,13 @@ width = 361;
 }
 );
 leftKerningGroup = u;
-rightKerningGroup = uhorn;
+rightKerningGroup = u;
 unicode = 1EE9;
 },
 {
 color = 9;
 glyphname = uhorndotbelow;
-lastChange = "2021-11-30 13:45:36 +0000";
+lastChange = "2021-12-01 03:06:03 +0000";
 layers = (
 {
 background = {
@@ -30084,13 +30079,13 @@ width = 361;
 }
 );
 leftKerningGroup = u;
-rightKerningGroup = uhorn;
+rightKerningGroup = u;
 unicode = 1EF1;
 },
 {
 color = 9;
 glyphname = uhorngrave;
-lastChange = "2021-11-30 13:45:36 +0000";
+lastChange = "2021-12-01 03:06:03 +0000";
 layers = (
 {
 background = {
@@ -30141,13 +30136,13 @@ width = 361;
 }
 );
 leftKerningGroup = u;
-rightKerningGroup = uhorn;
+rightKerningGroup = u;
 unicode = 1EEB;
 },
 {
 color = 9;
 glyphname = uhornhookabove;
-lastChange = "2021-11-30 13:45:36 +0000";
+lastChange = "2021-12-01 03:06:03 +0000";
 layers = (
 {
 background = {
@@ -30199,13 +30194,13 @@ width = 361;
 }
 );
 leftKerningGroup = u;
-rightKerningGroup = uhorn;
+rightKerningGroup = u;
 unicode = 1EED;
 },
 {
 color = 9;
 glyphname = uhorntilde;
-lastChange = "2021-11-30 13:45:36 +0000";
+lastChange = "2021-12-01 03:06:03 +0000";
 layers = (
 {
 background = {
@@ -30256,7 +30251,7 @@ width = 361;
 }
 );
 leftKerningGroup = u;
-rightKerningGroup = uhorn;
+rightKerningGroup = u;
 unicode = 1EEF;
 },
 {
@@ -33917,7 +33912,7 @@ rightMetricsKey = u;
 {
 color = 4;
 glyphname = a.sc;
-lastChange = "2021-05-28 01:42:16 +0000";
+lastChange = "2021-12-01 03:07:39 +0000";
 layers = (
 {
 anchors = (
@@ -34093,8 +34088,8 @@ width = 98;
 width = 350;
 }
 );
-leftKerningGroup = a.sc;
-rightKerningGroup = a.sc;
+leftKerningGroup = A;
+rightKerningGroup = A;
 userData = {
 RMXScaler = {
 source = A;
@@ -34104,7 +34099,7 @@ source = A;
 {
 color = 4;
 glyphname = b.sc;
-lastChange = "2021-05-28 01:42:10 +0000";
+lastChange = "2021-12-01 03:08:02 +0000";
 layers = (
 {
 background = {
@@ -34376,9 +34371,9 @@ width = 98;
 width = 408;
 }
 );
-leftKerningGroup = h.sc;
+leftKerningGroup = H;
 leftMetricsKey = h.sc;
-rightKerningGroup = b.sc;
+rightKerningGroup = B;
 userData = {
 RMXScaler = {
 source = B;
@@ -34388,7 +34383,7 @@ source = B;
 {
 color = 4;
 glyphname = c.sc;
-lastChange = "2021-05-28 01:42:10 +0000";
+lastChange = "2021-12-01 03:08:09 +0000";
 layers = (
 {
 anchors = (
@@ -34612,9 +34607,9 @@ width = 98;
 width = 393;
 }
 );
-leftKerningGroup = o.sc;
+leftKerningGroup = O;
 leftMetricsKey = o.sc;
-rightKerningGroup = c.sc;
+rightKerningGroup = C;
 userData = {
 RMXScaler = {
 source = C;
@@ -34624,7 +34619,7 @@ source = C;
 {
 color = 4;
 glyphname = d.sc;
-lastChange = "2021-05-28 01:42:10 +0000";
+lastChange = "2021-12-01 03:08:17 +0000";
 layers = (
 {
 anchors = (
@@ -34836,9 +34831,9 @@ width = 98;
 width = 412;
 }
 );
-leftKerningGroup = h.sc;
+leftKerningGroup = H;
 leftMetricsKey = h.sc;
-rightKerningGroup = o.sc;
+rightKerningGroup = O;
 rightMetricsKey = o.sc;
 userData = {
 RMXScaler = {
@@ -34849,7 +34844,7 @@ source = D;
 {
 color = 4;
 glyphname = eth.sc;
-lastChange = "2021-11-25 05:37:27 +0000";
+lastChange = "2021-12-01 03:08:22 +0000";
 layers = (
 {
 background = {
@@ -35041,8 +35036,9 @@ width = 98;
 width = 421;
 }
 );
+leftKerningGroup = H;
 note = Eth;
-rightKerningGroup = parenright.sc;
+rightKerningGroup = O;
 rightMetricsKey = o.sc;
 userData = {
 RMXScaler = {
@@ -35053,7 +35049,7 @@ source = Eth;
 {
 color = 4;
 glyphname = e.sc;
-lastChange = "2021-05-28 01:42:10 +0000";
+lastChange = "2021-12-01 03:08:28 +0000";
 layers = (
 {
 anchors = (
@@ -35229,9 +35225,9 @@ width = 98;
 width = 340;
 }
 );
-leftKerningGroup = h.sc;
+leftKerningGroup = H;
 leftMetricsKey = h.sc;
-rightKerningGroup = e.sc;
+rightKerningGroup = E;
 userData = {
 RMXScaler = {
 source = E;
@@ -35241,7 +35237,7 @@ source = E;
 {
 color = 4;
 glyphname = f.sc;
-lastChange = "2021-05-28 01:42:10 +0000";
+lastChange = "2021-12-01 03:08:59 +0000";
 layers = (
 {
 background = {
@@ -35337,9 +35333,9 @@ width = 98;
 width = 330;
 }
 );
-leftKerningGroup = h.sc;
+leftKerningGroup = H;
 leftMetricsKey = h.sc;
-rightKerningGroup = f.sc;
+rightKerningGroup = F;
 userData = {
 RMXScaler = {
 source = F;
@@ -35349,7 +35345,7 @@ source = F;
 {
 color = 4;
 glyphname = g.sc;
-lastChange = "2021-05-28 01:42:10 +0000";
+lastChange = "2021-12-01 03:09:04 +0000";
 layers = (
 {
 anchors = (
@@ -35601,9 +35597,9 @@ width = 98;
 width = 397;
 }
 );
-leftKerningGroup = o.sc;
+leftKerningGroup = O;
 leftMetricsKey = o.sc;
-rightKerningGroup = g.sc;
+rightKerningGroup = G;
 userData = {
 RMXScaler = {
 source = G;
@@ -35613,7 +35609,7 @@ source = G;
 {
 color = 4;
 glyphname = h.sc;
-lastChange = "2021-05-28 01:42:10 +0000";
+lastChange = "2021-12-01 03:09:28 +0000";
 layers = (
 {
 background = {
@@ -35717,8 +35713,8 @@ width = 98;
 width = 423;
 }
 );
-leftKerningGroup = h.sc;
-rightKerningGroup = h.sc;
+leftKerningGroup = H;
+rightKerningGroup = H;
 userData = {
 RMXScaler = {
 source = H;
@@ -35728,7 +35724,7 @@ source = H;
 {
 color = 4;
 glyphname = i.sc;
-lastChange = "2021-05-28 01:42:10 +0000";
+lastChange = "2021-12-01 03:09:36 +0000";
 layers = (
 {
 anchors = (
@@ -35872,9 +35868,9 @@ width = 98;
 width = 176;
 }
 );
-leftKerningGroup = h.sc;
+leftKerningGroup = H;
 leftMetricsKey = h.sc;
-rightKerningGroup = h.sc;
+rightKerningGroup = H;
 rightMetricsKey = h.sc;
 userData = {
 RMXScaler = {
@@ -35885,7 +35881,7 @@ source = I;
 {
 color = 4;
 glyphname = j.sc;
-lastChange = "2021-05-28 01:42:10 +0000";
+lastChange = "2021-12-01 03:09:48 +0000";
 layers = (
 {
 background = {
@@ -35997,8 +35993,8 @@ width = 98;
 width = 196;
 }
 );
-leftKerningGroup = j.sc;
-rightKerningGroup = o.sc;
+leftKerningGroup = J;
+rightKerningGroup = J;
 userData = {
 RMXScaler = {
 source = J;
@@ -36008,7 +36004,7 @@ source = J;
 {
 color = 4;
 glyphname = k.sc;
-lastChange = "2021-05-28 01:42:10 +0000";
+lastChange = "2021-12-01 03:09:54 +0000";
 layers = (
 {
 anchors = (
@@ -36164,9 +36160,9 @@ width = 98;
 width = 342;
 }
 );
-leftKerningGroup = h.sc;
+leftKerningGroup = H;
 leftMetricsKey = h.sc;
-rightKerningGroup = k.sc;
+rightKerningGroup = K;
 userData = {
 RMXScaler = {
 source = K;
@@ -36176,7 +36172,7 @@ source = K;
 {
 color = 4;
 glyphname = l.sc;
-lastChange = "2021-05-28 01:42:10 +0000";
+lastChange = "2021-12-01 03:10:25 +0000";
 layers = (
 {
 anchors = (
@@ -36328,9 +36324,9 @@ width = 98;
 width = 289;
 }
 );
-leftKerningGroup = h.sc;
+leftKerningGroup = H;
 leftMetricsKey = h.sc;
-rightKerningGroup = l.sc;
+rightKerningGroup = L;
 userData = {
 RMXScaler = {
 source = L;
@@ -36340,7 +36336,7 @@ source = L;
 {
 color = 4;
 glyphname = m.sc;
-lastChange = "2021-05-28 01:42:10 +0000";
+lastChange = "2021-12-01 03:10:38 +0000";
 layers = (
 {
 background = {
@@ -36448,9 +36444,9 @@ width = 98;
 width = 515;
 }
 );
-leftKerningGroup = h.sc;
+leftKerningGroup = H;
 leftMetricsKey = h.sc;
-rightKerningGroup = h.sc;
+rightKerningGroup = H;
 rightMetricsKey = h.sc;
 userData = {
 RMXScaler = {
@@ -36461,7 +36457,7 @@ source = M;
 {
 color = 4;
 glyphname = n.sc;
-lastChange = "2021-05-28 01:42:32 +0000";
+lastChange = "2021-12-01 03:10:38 +0000";
 layers = (
 {
 anchors = (
@@ -36597,9 +36593,9 @@ width = 98;
 width = 423;
 }
 );
-leftKerningGroup = h.sc;
+leftKerningGroup = H;
 leftMetricsKey = h.sc;
-rightKerningGroup = h.sc;
+rightKerningGroup = H;
 rightMetricsKey = h.sc;
 userData = {
 RMXScaler = {
@@ -36610,7 +36606,7 @@ source = N;
 {
 color = 4;
 glyphname = o.sc;
-lastChange = "2021-05-28 01:42:10 +0000";
+lastChange = "2021-12-01 03:10:43 +0000";
 layers = (
 {
 anchors = (
@@ -36902,8 +36898,8 @@ width = 98;
 width = 400;
 }
 );
-leftKerningGroup = o.sc;
-rightKerningGroup = o.sc;
+leftKerningGroup = O;
+rightKerningGroup = O;
 userData = {
 RMXScaler = {
 source = O;
@@ -36912,7 +36908,7 @@ source = O;
 },
 {
 glyphname = p.sc;
-lastChange = "2021-05-28 01:42:10 +0000";
+lastChange = "2021-12-01 03:10:52 +0000";
 layers = (
 {
 background = {
@@ -37076,9 +37072,9 @@ width = 98;
 width = 371;
 }
 );
-leftKerningGroup = h.sc;
+leftKerningGroup = H;
 leftMetricsKey = h.sc;
-rightKerningGroup = p.sc;
+rightKerningGroup = P;
 userData = {
 RMXScaler = {
 source = P;
@@ -37088,7 +37084,7 @@ source = P;
 {
 color = 4;
 glyphname = q.sc;
-lastChange = "2021-05-28 01:42:10 +0000";
+lastChange = "2021-12-01 03:11:05 +0000";
 layers = (
 {
 background = {
@@ -37300,9 +37296,9 @@ width = 98;
 width = 400;
 }
 );
-leftKerningGroup = o.sc;
+leftKerningGroup = O;
 leftMetricsKey = o.sc;
-rightKerningGroup = o.sc;
+rightKerningGroup = H;
 rightMetricsKey = o.sc;
 userData = {
 RMXScaler = {
@@ -37313,7 +37309,7 @@ source = Q;
 {
 color = 4;
 glyphname = r.sc;
-lastChange = "2021-05-28 01:42:10 +0000";
+lastChange = "2021-12-01 03:11:12 +0000";
 layers = (
 {
 anchors = (
@@ -37557,9 +37553,9 @@ width = 98;
 width = 402;
 }
 );
-leftKerningGroup = h.sc;
+leftKerningGroup = H;
 leftMetricsKey = h.sc;
-rightKerningGroup = r.sc;
+rightKerningGroup = R;
 userData = {
 RMXScaler = {
 source = R;
@@ -37569,7 +37565,7 @@ source = R;
 {
 color = 4;
 glyphname = s.sc;
-lastChange = "2021-05-28 01:44:32 +0000";
+lastChange = "2021-12-01 03:11:17 +0000";
 layers = (
 {
 anchors = (
@@ -37841,8 +37837,8 @@ width = 98;
 width = 354;
 }
 );
-leftKerningGroup = s.sc;
-rightKerningGroup = s.sc;
+leftKerningGroup = S;
+rightKerningGroup = S;
 userData = {
 RMXScaler = {
 source = S;
@@ -37852,7 +37848,7 @@ source = S;
 {
 color = 4;
 glyphname = t.sc;
-lastChange = "2021-05-28 01:42:10 +0000";
+lastChange = "2021-12-01 03:11:21 +0000";
 layers = (
 {
 anchors = (
@@ -37996,8 +37992,8 @@ width = 98;
 width = 257;
 }
 );
-leftKerningGroup = t.sc;
-rightKerningGroup = t.sc;
+leftKerningGroup = T;
+rightKerningGroup = T;
 userData = {
 RMXScaler = {
 source = T;
@@ -38006,7 +38002,7 @@ source = T;
 },
 {
 glyphname = u.sc;
-lastChange = "2021-05-28 01:42:10 +0000";
+lastChange = "2021-12-01 03:11:24 +0000";
 layers = (
 {
 anchors = (
@@ -38206,8 +38202,8 @@ width = 98;
 width = 409;
 }
 );
-leftKerningGroup = u.sc;
-rightKerningGroup = u.sc;
+leftKerningGroup = U;
+rightKerningGroup = U;
 userData = {
 RMXScaler = {
 source = U;
@@ -38217,7 +38213,7 @@ source = U;
 {
 color = 4;
 glyphname = v.sc;
-lastChange = "2021-05-28 01:42:10 +0000";
+lastChange = "2021-12-01 03:11:29 +0000";
 layers = (
 {
 background = {
@@ -38305,8 +38301,8 @@ width = 98;
 width = 303;
 }
 );
-leftKerningGroup = v.sc;
-rightKerningGroup = v.sc;
+leftKerningGroup = V;
+rightKerningGroup = V;
 userData = {
 RMXScaler = {
 source = V;
@@ -38316,7 +38312,7 @@ source = V;
 {
 color = 4;
 glyphname = w.sc;
-lastChange = "2021-05-28 02:04:40 +0000";
+lastChange = "2021-12-01 03:11:33 +0000";
 layers = (
 {
 anchors = (
@@ -38464,8 +38460,8 @@ width = 94;
 width = 483;
 }
 );
-leftKerningGroup = w.sc;
-rightKerningGroup = w.sc;
+leftKerningGroup = W;
+rightKerningGroup = W;
 userData = {
 RMXScaler = {
 source = W;
@@ -38475,7 +38471,7 @@ source = W;
 {
 color = 4;
 glyphname = x.sc;
-lastChange = "2021-05-28 01:42:10 +0000";
+lastChange = "2021-12-01 03:11:37 +0000";
 layers = (
 {
 background = {
@@ -38579,6 +38575,8 @@ width = 98;
 width = 280;
 }
 );
+leftKerningGroup = X;
+rightKerningGroup = X;
 userData = {
 RMXScaler = {
 source = X;
@@ -38588,7 +38586,7 @@ source = X;
 {
 color = 4;
 glyphname = y.sc;
-lastChange = "2021-05-28 01:42:10 +0000";
+lastChange = "2021-12-01 03:11:42 +0000";
 layers = (
 {
 anchors = (
@@ -38744,6 +38742,8 @@ width = 98;
 width = 290;
 }
 );
+leftKerningGroup = Y;
+rightKerningGroup = Y;
 userData = {
 RMXScaler = {
 source = Y;
@@ -38753,7 +38753,7 @@ source = Y;
 {
 color = 4;
 glyphname = z.sc;
-lastChange = "2021-05-28 01:42:10 +0000";
+lastChange = "2021-12-01 03:11:45 +0000";
 layers = (
 {
 anchors = (
@@ -38905,8 +38905,8 @@ width = 98;
 width = 261;
 }
 );
-leftKerningGroup = z.sc;
-rightKerningGroup = z.sc;
+leftKerningGroup = Z;
+rightKerningGroup = Z;
 userData = {
 RMXScaler = {
 source = Z;
