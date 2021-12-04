@@ -12,7 +12,7 @@ DisplayStrings = (
 "/oslash.sc",
 "/u.sc/uhorn.sc/uhorntilde.sc",
 "chu/acircumflexhookabove n/space b/idotbelow/space n/uhorntilde a/space hôm/space sau/space s/etilde/space/dcroat i/space thôi/space mà/space",
-"nnfnofoo\012nn/f_f nn/space/f_f_i n/f_f_l nn/fi/space/fl/space/f_t/space nn/longs_t nn/space/s_t \012nnffnn/space ffinfflnnfi/space fl/space ft/space nn/longs tnn/space st/space tiá/space tu/space a/f_f_i nity/space affinity\012nncoffeennaftannnco/f_f ee",
+"nnfnofoo\012nn/f_f nn/space/f_f_i n/f_f_l nn/fi/space/fl/space/f_t/space nn/longs_t nn/comma.tf/space/s_t \012nnffnn/space ffinfflnnfi/space fl/space ft/space nn/longs tnn/space st/space tiá/space tu/space a/f_f_i nity/space affinity\012nncoffeennaftannnco/f_f ee",
 abcbdefghijklmnopqrstuvwxyz
 );
 classes = (
@@ -71659,17 +71659,9 @@ width = 401;
 },
 {
 glyphname = comma.tf;
-lastChange = "2021-05-26 04:14:52 +0000";
+lastChange = "2021-12-04 01:53:19 +0000";
 layers = (
 {
-background = {
-components = (
-{
-name = comma;
-transform = "{1, 0, 0, 1, 113, 0}";
-}
-);
-};
 components = (
 {
 name = comma;
@@ -71680,15 +71672,6 @@ layerId = "8A3706BD-364F-4FE3-9C2E-7E87DF0DB4CC";
 width = 450;
 },
 {
-background = {
-components = (
-{
-alignment = -1;
-name = comma;
-transform = "{1, 0, 0, 1, 113, 0}";
-}
-);
-};
 components = (
 {
 alignment = -1;
