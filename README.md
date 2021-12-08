@@ -1,6 +1,10 @@
+# Alumni Sans
+
 Originally inspired by the black face Impact™, it soon evolved to include numerous weights from the Black flavor of its progenitor to a super Thin weight.
 
 The extreme weights (Thin and Black) are designed for display situations while the remaining weights may be used for more traditional textual design applications.
+
+![Sample Image](Documentation/Alumni.png)
 
 ## Building the Fonts
 
@@ -35,3 +39,18 @@ Then run the this command:
 cd sources
 gftools builder config.yml
 ```
+
+
+## Changelog
+
+**8 Dec 2021. Version 1.018**
+- MINOR GF Latin Plus added. Accents created for Small Caps.
+
+**19 Jun 2021. Version 1.015**
+- MINOE Glyphset meets now Google Font Plus encoding
+
+## License
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at
+https://scripts.sil.org/OFL
